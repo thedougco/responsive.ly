@@ -1,0 +1,31 @@
+---
+layout: default
+bodyclass: post
+---
+<div class="full">
+  <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a></h1>
+  <h2 class="byline date full-date publish-info" title="{{ page.date }}">{{ page.date | date_to_string }}</h2>
+  <div class="entry-content full-content">
+    {{ content }}
+  </div>
+  <footer class="meta">
+    Posted in&nbsp;
+    {% for category in page.categories %}
+    <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
+    {% endfor %}
+  </footer>
+</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_shortname = 'weedygarden';
+  var disqus_url = "http://weedygarden.net{{page.url}}";
+
+  (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>

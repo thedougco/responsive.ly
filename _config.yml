@@ -1,0 +1,12 @@
+url: http://responsive.ly
+name: Responsive.ly
+description: TBD
+paginate: 10
+pygments: true
+permalink: /:year/:month/:title/
+markdown: rdiscount
+author: Doug Gapinski and Erik Runyon
+email:
+feed:
+exclude:
+  - README.md

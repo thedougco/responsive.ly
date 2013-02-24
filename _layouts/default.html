@@ -1,0 +1,82 @@
+{% if page.bodyclass.size > 0 %}{% assign bodyclass = page.bodyclass %}{% else %}{% assign bodyclass = '' %}{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title != 'Home' %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/css/images/webclip-57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/css/images/webclip-72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/css/images/webclip-114.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/css/images/webclip-144.png">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="Erik Runyon | WeedyGarden.com/WeedyGarden.net">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link href="/css/site.css" rel="stylesheet" type="text/css">
+  <link href="/css/mobile.css" media="handheld" rel="stylesheet" type="text/css">
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="/js/respond.js" type="text/javascript"></script>
+  <![endif]-->
+  <link href="{{ site.feed }}" rel="alternate" title="RSS" type="application/rss+xml" />
+</head>
+
+<body class="{{ bodyclass }}">
+<nav id="skip-links">
+  <ul>
+    <li><a href="#content">Skip to Content</a></li>
+    <li><a href="#nav">Skip to Nav</a></li>
+  </ul>
+</nav>
+<div class="wrapper">
+  <header id="header" class="site-header" role="banner">
+    <h1><a href="/">{{ site.name }}</a></h1>
+  </header>
+
+  <section class="content" id="content" role="main">
+    {{ content }}
+  </section>
+
+  <aside class="sidebar" role="complementary">
+    <nav id="nav" class="section navigation" role="navigation">
+      <h2>Navigation</h2>
+      <ul>
+        <li><a href="#">Some Page</a></li>
+      </ul>
+    </nav>
+
+    <section>
+      {% include social-links.html %}
+    </section>
+
+    <section>
+      <form method="get" id="" action="http://www.google.com/search?ie=utf-8&amp;oe=utf-8" enctype="application/x-www-form-urlencoded">
+        <input type="hidden" name="sitesearch" value="{{ site.url }}">
+        <input type="search" name="q" id="searchtxt" placeholder="Search">
+        <input type="submit" value="Search" id='search_submit'>
+      </form>
+    </section>
+
+    <section>
+      <h2>Recent Posts</h2>
+      <ul>
+        {% for post in site.posts limit:10 %}
+        <li><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+
+  </aside><!-- .sidebar -->
+
+  <footer id="footer" class="site-footer vcard" role="contentinfo">
+    <p class="url fn org">&copy; 2013 {{ site.name }}</p>
+    {% include social-links.html %}
+  </footer>
+
+</div><!-- .wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="/js/site.js"></script>
+{% include analytics.html %}
+</body>
+</html>
