@@ -2,14 +2,14 @@
 
 body {
   padding:50px;
-  font:20px/2 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:20px/1.7 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:black;
   font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
+  color:#777;
+  margin:0 0 40px;
 }
 
 p, ul, ol, table, pre, dl {
