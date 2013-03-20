@@ -12,7 +12,7 @@ This site is about building responsively and responsibly. We maintain it with th
 3. Make it useful to everyone.
 
 ## Doug Gapinski
-Doug Gapinski [(@thedougco)](http://www.twitter.com/thedougco) is a Strategist at mStoner, a company providing strategy and creative work to colleges, universities and graduate schools. He has also done work for the Obama campaign and the Chicago Museum of Contemporary Art and Sears. Doug speaks several times a year at education conferences and is currently most interested in mobile and pervasive computing.
+Doug Gapinski [()@thedougco()](http://www.twitter.com/thedougco) is a Strategist at mStoner, a company providing strategy and creative work to colleges, universities and graduate schools. He has also done work for the Obama campaign and the Chicago Museum of Contemporary Art and Sears. Doug speaks several times a year at education conferences and is currently most interested in mobile and pervasive computing.
 
 ## Erik Runyon
 Erik Runyon [@erunyon](http://www.twitter.com/erunyon) is Manager of Interactive Development at the University of Notre Dame where he oversees the development of university web properties and sets development standards for University Communications. He is a staunch advocate of accessibility, semantics, the mobile experience, and data portability. Erik also writes on [WeedyGarden.net](http://www.weedygarden.net/) and the [ND.edu blog](http://blogs.nd.edu/nddotedu/).
