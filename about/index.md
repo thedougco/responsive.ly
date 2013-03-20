@@ -3,6 +3,7 @@ title: About
 layout: default
 ---
 <img src="responsively.gif" width="100%" alt="A satirical illustration of responsive design"/>
+  
 
 We live in a [multi-screen world](http://www.google.com/think/research-studies/the-new-multi-screen-world-study.html). In this postdesktop age of information, the many screens we use to connect to the internet serve as our primary tools for reading and writing. We now move simultaneously and sequentially between desktop computers, laptops, smartphones, and even game consoles to investigate and accomplish things on the web. 
 
