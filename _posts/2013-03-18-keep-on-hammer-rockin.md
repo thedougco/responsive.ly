@@ -11,6 +11,6 @@ Designer, author and speaker Andy Clarke [(@malarkey)](http://www.twitter.com/ma
 
 > Rock Hammer’s also a design delivery tool as it includes a HTML patterns page (primer/guide) that’s easy to style. We now use Rock Hammer’s patterns page as a working tool when we discuss design ‘atmosphere’ (colour, typography and texture) with our clients.
 
-If you can prefer, you can always [fork the Hammer](https://github.com/malarkey/Rock-Hammer). 
+Mr. Clarke has a more detailed explanation of the project library on his site, [Stuff and Nonsense](http://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library). If you prefer to *git* straight to business, you can always [fork the Hammer](https://github.com/malarkey/Rock-Hammer). 
 
 *Posted by Doug Gapinski [(@thedougco)](http://www.twitter.com/@thedougco)*
