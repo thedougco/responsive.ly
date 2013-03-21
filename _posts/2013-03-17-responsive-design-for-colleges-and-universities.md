@@ -8,7 +8,7 @@ categories: [Responsive, Performance]
 
 What are colleges and universities doing to catch up to the evolving practice of responsive design? The answer is that #RWD practices vary wildly by institution. 
 
-Erik Runyon [(@erunyon)](http://www.twitter.com/@erunyon), my friend, colleague and cofounder of this site maintains [the HigherEd RWD Directory](http://weedygarden.net/highered-rwd-directory/) on his blog, [Weedygarden.net](http://weedygarden.net/). He recently added six new institutions to the list:  
+Erik Runyon [(@erunyon)](http://www.twitter.com/@erunyon), cofounder of this site maintains [the HigherEd RWD Directory](http://weedygarden.net/highered-rwd-directory/) on his blog, [Weedygarden.net](http://weedygarden.net/). He recently added six new institutions to the list:  
 + [Suffolk University](http://www.suffolk.edu/)  
 + [Menlo College](http://www.menlo.edu/)  
 + [Black Hills State University](http://www.bhsu.edu/)  
@@ -20,7 +20,5 @@ The new additions bring the documented number of universities using responsive d
 
 **A Note on Web Performance**  
 [In another post from early 2013](http://weedygarden.net/2013/01/the-numbers-behind-highered-rwd/), Erik notes many of the colleges and universities currently using responsive design have not taken the time to properly optimize performance for mobile sites.
-
-The takeaway? Higher education at large still has plenty of catching up to do.
 
 *Posted by Doug Gapinski [(@thedougco)](http://www.twitter.com/@thedougco)*
