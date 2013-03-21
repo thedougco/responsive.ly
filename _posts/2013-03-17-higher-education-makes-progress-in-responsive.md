@@ -4,7 +4,7 @@ title: "Responsive Design for Colleges and Universities"
 date: 2013-03-17
 categories: [Responsive, Performance]
 ---
-<img src="images/college.png" width="100%" alt="An old illustration of an historic US University." />
+<img src="../../../images/college.png" width="100%" alt="An old illustration of an historic US University." />
 
 What are colleges and universities doing to catch up to the evolving practice of responsive design? The answer is that #RWD practices vary wildly by institution. 
 
