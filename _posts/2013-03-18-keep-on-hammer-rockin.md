@@ -3,7 +3,6 @@ layout: post
 title: "Stop, (Rock) Hammer Time"
 date: 2013-03-18
 categories: [Responsive, Tools]
-<meta name="description" content="testing testing">
 ---
 <img src="../../../images/rocks.png" width="100%" alt="An old illustration of an historic US University." />
 Designer, author and speaker Andy Clarke [(@malarkey)](http://www.twitter.com/malarkey)has posted a downloadable version of [Rock Hammer](http://malarkey.github.com/Rock-Hammer/), his cherry-picked responsive project library. In his own words:
