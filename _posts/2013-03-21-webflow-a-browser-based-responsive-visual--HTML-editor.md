@@ -6,7 +6,7 @@ categories: [Responsive, Tools]
 ---
 <img src="../../../images/webflow.png" width="100%" alt="An illustration that has iconic metaphors for Webflow software processes." />
 
-Recently [Adobe](http://www.adobe.com/) unveiled a [free public preview version of Edge Reflow](http://html.adobe.com/edge/reflow/), a desktop application for prototyping and designing webpages responsively. 
+Recently [Adobe](http://www.adobe.com/) unveiled a [free public preview version of Edge Reflow](http://html.adobe.com/edge/reflow/), a desktop application for prototyping and designing web pages responsively. 
 
 One of Edge Reflow’s limitations is a common one for WYSIWYG editors: 
 > Adobe Product Manager Jacob Surber tells us his goal with Reflow “is to help designers design within the constraints of the web to communicate their intent, but not to tell developers how to build the site.” Surber went on, detailing that what Reflow generates “is not production code.” [(source: The Next Web)](http://thenextweb.com/apps/2013/02/14/adobe-launches-responsive-design-app-reflow-updates-dreamweaver-edge-animate-and-edge-code/)
