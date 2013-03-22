@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Webflow: a Browser-Based Responsive Visual Editor"
+title: "Webflow: a Browser-Based, Responsive, Visual HTML Editor"
 date: 2013-03-18
 categories: [Responsive, Tools]
 ---
