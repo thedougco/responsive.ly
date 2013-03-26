@@ -7,7 +7,9 @@ categories: [Responsive, Tools]
 
 Anthony Colangelo [(@acolangelo)](http://www.twitter.com/@acolangelo) [wrote a post about vertical media queries](http://cognition.happycog.com/article/go-vertical/) last week. It  reminded me of Trent Walton's [(@trentwalton)](http://www.twitter.com/@trentwalton) [post from 2012](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/) and in general about a rare beast in responsive design: the height-based media query. 
 
-In general, developers using media queries mostly use width-based ones. Collapsing content to a single column creates a lot of long, skinny mobile sites. At this point, the long, skinny mobile experience is a design pattern we're used to. But height-based queries are an underused way of finessing some of the layout elements that really make more sense when they aren't so tall.
+At the time of this post, developers mostly use width-based media queries. Collapsing content to a single column creates many long, skinny mobile sites. The abundance of long, skinny sites has familiarized the long, skinny mobile experience; it's a design pattern mobile users are familiar with. Height-based queries are an underused way of finessing some of the layout elements that really don't need to be so tall.
+
+There's as second place where vertical media queries come in handy and that is on very wide displays. In a case where we are adjusting content for the full width of very large flatscreen, we have the opposite problem of the long, skinny experience: the short, wide webpage. If you've done much browsing of fully responsive sites on HDTVs you'll be familiar with the short, wide webpage phenomenon.
 
 In Anthony's post, he notes the (iPhone landing page](http://www.apple.com/iphone/) uses a vertical media query to set the height of the hero shot. He also asks for reader examples via Twitter submission. I thought this topic could use a little a more depth, so I collected and categorized some different use cases for vertical media queries. Below, I've sorted some of the best Happy Cog user submissions as well as examples I was able to dig up from different posts on the topic from 2012.
 
