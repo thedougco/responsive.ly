@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use Cases for Vertical Media Queries.
+title: Use Cases for Vertical Media Queries
 date: 2013-03-25
 categories: [Responsive, Tools]
 ---
