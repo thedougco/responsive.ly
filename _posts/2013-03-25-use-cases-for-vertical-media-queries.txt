@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Use Cases for Vertical Media Queries
+title: Use Cases for Vertical Media Queries.
 date: 2013-03-25
 categories: [Responsive, Tools]
 ---
+
 Anthony Colangelo [(@acolangelo)](http://www.twitter.com/@acolangelo) [wrote a post about vertical media queries](http://cognition.happycog.com/article/go-vertical/) last week. It  reminded me of Trent Walton's [(@trentwalton)](http://www.twitter.com/@trentwalton) [post from 2012](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/) and in general about a rare beast in responsive design: the height-based media query. 
 
 In general, developers using media queries mostly use width-based ones. Collapsing content to a single column creates a lot of long, skinny mobile sites. At this point, the long, skinny mobile experience is a design pattern we're used to. But height-based queries are an underused way of finessing some of the layout elements that really make more sense when they aren't so tall.
@@ -14,9 +15,9 @@ In Anthony's post, he notes the (iPhone landing page](http://www.apple.com/iphon
 
 <img src="../../../images/vertical_one.png" width="100%" alt="An old illustration of an historic US University." />
 
-+[Bath & Body Works](http://banyan-bathandbody.pagodabox.com/adventure#)
-+[Environmental Defense Fund](http://www.edf.org/)
-+[Johan Ronsse](http://johanronsse.be/)
++[Bath & Body Works](http://banyan-bathandbody.pagodabox.com/adventure#)  
++[Environmental Defense Fund](http://www.edf.org/)  
++[Johan Ronsse](http://johanronsse.be/)  
 +[Fairline Yachts](http://www.fairline.com/en/)
 +[The University of Notre Dame](http://www.nd.edu/)
 
