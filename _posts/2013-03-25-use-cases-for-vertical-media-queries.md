@@ -11,7 +11,7 @@ These days, developers are mostly using width-based media queries. A common prac
 
 There's as second place where vertical media queries come in handy: very wide displays. In a case where we are adjusting content for the full width of very large flatscreen, we have the opposite problem of the long, skinny experience: the short, wide webpage. If you've done much browsing of fully responsive sites on HDTVs you'll be familiar with the short, wide webpage phenomenon.
 
-In Anthony's post, he notes the (iPhone landing page](http://www.apple.com/iphone/) uses a vertical media query to set the height of the hero shot. He also asks readers for examples via Twitter submission. I thought this topic could use a little a more depth, so I collected and categorized some different use cases for vertical media queries.
+In Anthony's post, he notes the [iPhone landing page](http://www.apple.com/iphone/) uses a vertical media query to set the height of the hero shot. He also asks readers for examples via Twitter submission. I thought this topic could use a little a more exploration, so I collected and categorized some different use cases for vertical media queries, both from the Twitter responses and other examples on the web.
 
 ##Modifying the size (or viewable area) of large, horizontal graphics
 
