@@ -5,7 +5,7 @@ date: 2013-03-25
 categories: [Responsive, Tools]
 ---
 
-Anthony Colangelo [(@acolangelo)](http://www.twitter.com/@acolangelo) [wrote a post about vertical media queries](http://cognition.happycog.com/article/go-vertical/) last week. It reminded me of a (comparatively) rare beast in responsive design: the height-based media query. 
+Anthony Colangelo [(@acolangelo)](http://www.twitter.com/@acolangelo) wrote a [post last week](http://cognition.happycog.com/article/go-vertical/) about a rare beast in responsive design: the vertical or height-based media query. 
 
 Many responsive sites used width-based media queries to determine when content should stack. In a typical width-based scenario, as the browser gets narrower multiple columns from a larger display will fall inline to a single column in the mobile view. This results in a long, skinny mobile display of content. There's nothing wrong with the long, skinny single column—it's is a design pattern mobile users are familiar with. 
 
