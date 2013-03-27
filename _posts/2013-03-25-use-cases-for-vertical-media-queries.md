@@ -24,11 +24,11 @@ In Anthony's post, he notes the [iPhone landing page](http://www.apple.com/iphon
 
 Examples:  
 
-- [Bath & Body Works](http://banyan-bathandbody.pagodabox.com/adventure#)  
-- [Environmental Defense Fund](http://www.edf.org/)  
-- [Johan Ronsse](http://johanronsse.be/)  
-- [Fairline Yachts](http://www.fairline.com/en/)  
-- [The University of Notre Dame](http://www.nd.edu/)
++ [Bath & Body Works](http://banyan-bathandbody.pagodabox.com/adventure#)  
++ [Environmental Defense Fund](http://www.edf.org/)  
++ [Johan Ronsse](http://johanronsse.be/)  
++ [Fairline Yachts](http://www.fairline.com/en/)  
++ [The University of Notre Dame](http://www.nd.edu/)
 
 ##Tightening line height and/or font size based on height
 
@@ -36,13 +36,13 @@ Examples:
 
 Examples:  
 
-- [Trent Walton](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/)
++ [Trent Walton](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/)
 
 ##Removing height from whitespace between page elements based on height
   
 Examples:  
 
-- [Statamicist](http://statamicist.com/)
++ [Statamicist](http://statamicist.com/)
 
 ##Modifying number of feeds based on available height
   
@@ -53,5 +53,5 @@ I couldn't find any live examples of this, but there's a fourth use case I can t
 
 ##Demos
 
-- [CSS Tricks height-based bootstrap madness](http://css-tricks.com/examples/VerticalMediaQueries/bootstrap.html)–a demo for a number of different page modifications based vertical media queries.
-- [Philip Zastrow's height-targeted color changes](http://phanza.com/2012/08/24/media-min-height/)
++ [CSS Tricks height-based bootstrap madness](http://css-tricks.com/examples/VerticalMediaQueries/bootstrap.html)–a demo for a number of different page modifications based vertical media queries.
++ [Philip Zastrow's height-targeted color changes](http://phanza.com/2012/08/24/media-min-height/)
