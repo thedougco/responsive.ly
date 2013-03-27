@@ -9,10 +9,18 @@ bodyclass: post
     {{ content }}
   </div>
   <footer class="meta">
-    Posted in&nbsp;
-    {% for category in page.categories %}
-    <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
-    {% endfor %}
+    <p>
+      Posted by 
+      {% if page.author == 'erik' %}
+         {{ site.authors.erik }} 
+      {% else %}
+         {{ site.authors.doug }} 
+      {% endif %}
+      on {{ page.date | date: "%b %d, %Y" }} in 
+      {% for category in page.categories %}
+      <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
+      {% endfor %}
+    </p>
   </footer>
 </div>
 

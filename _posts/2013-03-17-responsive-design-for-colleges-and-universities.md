@@ -3,6 +3,7 @@ layout: post
 title: "Responsive Design for Colleges and Universities"
 date: 2013-03-17
 categories: [Responsive, Performance]
+author: doug
 ---
 <img src="../../../images/college.png" width="100%" alt="An old illustration of an historic US University." />
 
@@ -20,5 +21,3 @@ The new additions bring the documented number of universities using responsive d
 
 **A Note on Web Performance**  
 [In another post from early 2013](http://weedygarden.net/2013/01/the-numbers-behind-highered-rwd/), Erik notes many of the colleges and universities currently using responsive design have not taken the time to properly optimize performance for mobile sites.
-
-*Posted by Doug Gapinski [(@thedougco)](http://www.twitter.com/@thedougco)*

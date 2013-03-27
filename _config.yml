@@ -8,5 +8,9 @@ markdown: rdiscount
 author: Doug Gapinski and Erik Runyon
 email:
 feed: /atom.xml
+authors:
+  doug: Doug Gapinski (<a href="http://www.twitter.com/thedougco/">@thedougco</a>)
+  erik: Erik Runyon (<a href="http://www.twitter.com/erunyon/">@erunyon</a>)
+erik: "Erik Runyon"
 exclude:
   - README.md

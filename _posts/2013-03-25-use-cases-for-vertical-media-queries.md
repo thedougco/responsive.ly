@@ -3,6 +3,7 @@ layout: post
 title: Use Cases for Vertical Media Queries
 date: 2013-03-25
 categories: [Responsive, Tools]
+author: doug
 ---
 
 Anthony Colangelo [(@acolangelo)](http://www.twitter.com/@acolangelo) wrote a [post last week](http://cognition.happycog.com/article/go-vertical/) about a rare beast in responsive design: the vertical or height-based media query. 
@@ -51,5 +52,3 @@ I couldn't find any live examples of this, but there's a fourth use case I can t
 +[CSS Tricks height-based bootstrap madness](http://css-tricks.com/examples/VerticalMediaQueries/bootstrap.html)–a demo for a number of different page modifications based vertical media queries.
 
 +[Philip Zastrow's height-targeted color changes](http://phanza.com/2012/08/24/media-min-height/)
-
-*Posted by Doug Gapinski [(@thedougco)](http://www.twitter.com/@thedougco)*
