@@ -10,7 +10,7 @@ Recently [Adobe](http://www.adobe.com/) unveiled a [free public preview version 
 
 One of Edge Reflow’s limitations is a common one for WYSIWYG editors: 
 > Adobe Product Manager Jacob Surber tells us his goal with Reflow “is to help designers design within the constraints of the web to communicate their intent, but not to tell developers how to build the site.” Surber went on, detailing that what Reflow generates “is not production code.” [(source: The Next Web)](http://thenextweb.com/apps/2013/02/14/adobe-launches-responsive-design-app-reflow-updates-dreamweaver-edge-animate-and-edge-code/)
-
+<!-- more -->
 Enter [Webflow](http://webflow.com/). Earlier this week Webflow founders Vlad [(@callmevlad)](https://twitter.com/callmevlad) and Sergie Magdadlin [(@thesergie)](https://twitter.com/thesergie), unveiled [a partially functional live demo](http://playground.webflow.com/) of the new service.
 
 The Webflow demo shows off many of the same features as Edge Reflow, but is a browser-based web app. Although the export feature isn’t functional yet, the site claims code export options are production-ready code with a toggle for CSS, SCSS, SASS, and LESS. The Webflow UI also shows off a pattern library and an outline view to demonstrate how styles are nested. 

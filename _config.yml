@@ -7,6 +7,6 @@ permalink: /:year/:month/:title/
 markdown: rdiscount
 author: Doug Gapinski and Erik Runyon
 email:
-feed:
+feed: /atom.xml
 exclude:
   - README.md

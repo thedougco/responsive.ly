@@ -5,7 +5,7 @@ date: 2013-03-18
 categories: [Responsive, Tools]
 ---
 <img src="../../../images/rocks.png" width="100%" alt="An old illustration of an historic US University." />
-Designer, author and speaker Andy Clarke [(@malarkey)](http://www.twitter.com/malarkey)has posted a downloadable version of [Rock Hammer](http://malarkey.github.com/Rock-Hammer/), his cherry-picked responsive project library. In his own words:
+Designer, author and speaker Andy Clarke [(@malarkey)](http://www.twitter.com/malarkey)has posted a downloadable version of [Rock Hammer](http://malarkey.github.com/Rock-Hammer/), his cherry-picked responsive project library.<!-- more --> In his own words:
 
 > It’s my curated project library of HTML, CSS and Javascript files, the ones I use to begin any new design project. It includes baseline typography styles, styling for common HTML elements including images, forms and tables, as well as navigation, responsive modules and widgets, some derived from Bootstrap, others from Responsive Patterns.
 
