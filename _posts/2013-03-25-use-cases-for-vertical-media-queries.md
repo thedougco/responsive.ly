@@ -23,23 +23,26 @@ In Anthony's post, he notes the [iPhone landing page](http://www.apple.com/iphon
 <img src="../../../images/vertical_one.png" width="100%" alt="Illustration of a vertical media query." />
 
 Examples:  
-+[Bath & Body Works](http://banyan-bathandbody.pagodabox.com/adventure#)  
-+[Environmental Defense Fund](http://www.edf.org/)  
-+[Johan Ronsse](http://johanronsse.be/)  
-+[Fairline Yachts](http://www.fairline.com/en/)  
-+[The University of Notre Dame](http://www.nd.edu/)
+
+- [Bath & Body Works](http://banyan-bathandbody.pagodabox.com/adventure#)  
+- [Environmental Defense Fund](http://www.edf.org/)  
+- [Johan Ronsse](http://johanronsse.be/)  
+- [Fairline Yachts](http://www.fairline.com/en/)  
+- [The University of Notre Dame](http://www.nd.edu/)
 
 ##Tightening line height and/or font size based on height
 
 <img src="../../../images/vertical_two.png" width="100%" alt="Illustration of a vertical media query." />
 
 Examples:  
-+[Trent Walton](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/)
+
+- [Trent Walton](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/)
 
 ##Removing height from whitespace between page elements based on height
   
 Examples:  
-+[Statamicist](http://statamicist.com/)
+
+- [Statamicist](http://statamicist.com/)
 
 ##Modifying number of feeds based on available height
   
@@ -49,6 +52,6 @@ Examples:
 I couldn't find any live examples of this, but there's a fourth use case I can think of based on a project I'm working on now: changing the number of RSS feed items displayed based on height. My logic is that as long as a person is only one click or touch away from a full feed, large RSS feeds might get truncated in smaller views to prevent mobile pages from becoming ridiculously long. This isn't limiting a visitor's access to content, it's simply limiting how much information we show at once based on the size of the display.
 
 ##Demos
-+[CSS Tricks height-based bootstrap madness](http://css-tricks.com/examples/VerticalMediaQueries/bootstrap.html)–a demo for a number of different page modifications based vertical media queries.
 
-+[Philip Zastrow's height-targeted color changes](http://phanza.com/2012/08/24/media-min-height/)
+- [CSS Tricks height-based bootstrap madness](http://css-tricks.com/examples/VerticalMediaQueries/bootstrap.html)–a demo for a number of different page modifications based vertical media queries.
+- [Philip Zastrow's height-targeted color changes](http://phanza.com/2012/08/24/media-min-height/)
