@@ -6,7 +6,7 @@ categories: [Responsive, Tools]
 author: doug
 ---
 
-#I. Thou shalt entertain  
+**I. Thou shalt entertain**
 We do a lot of work to make sure out sites are accessible, professional, readable… but one of the things that we forget is that we’re in the entertainment business too. If sites don't entertain, they are not engaging. We're competing for attention, the more we do to entertain, the better.
 Example: [Panic](http://panic.com)
 
@@ -39,7 +39,7 @@ Jeffrey points out the talking bird, the ”Gnusletter,” pictures of soldiers 
 [Flickr](http://www.flickr.com/)  
 Has intertwining copy excerpts such as greetings in another language. What Zeldman refers to as ”Little, delightful touches.”
 
-#II. Test everything (including assumptions)  
+**II. Test everything (including assumptions)**  
 Examples:  
 [Brad Frost's Post on Testing Mobile Devices](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
 
@@ -58,14 +58,14 @@ Jeffrey shows iteration of design of A List Apart as a sequence.  ”How far can
 
 Jeffrey points out that little text links at the top of A List Apart articles were more effective than graphic links at the bottom. They initially assumed this was a bad thing, but discovered people really do like to tweet things before reading them. They saw a huge uptake in engagement in Twitter by having the small social media text links at the top. Instead of trying to educate readers not to ”tweet before reading, we let them.”
 
-#IV. Thou shalt ship  
+**IV. Thou shalt ship**  
 ”One of the saddest things is to work on getting a web site or app to make it perfect and someone comes out with a crappy version of the app that succeeds because it was first.”
 
 It doesn’t matter if how good you are if you don’t ship. And if you take too long someone else will beat you. Jeffrey points out the NYtimes.com redesign and how it is exposed and iterative.
 
 ”We ship and keep working. That’s the web.”
 
-#V. Engage thy community  
+**V. Engage thy community**  
 ”The most important you have besides your content and your proprietary apps are the people who love what you do.” Sometimes you can break that engagement.
 
 Jeffrey discusses the Facebook acquisition of Instagram and the draconian change in [terms of service](http://bits.blogs.nytimes.com/2012/12/17/what-instagrams-new-terms-of-service-mean-for-you/).
@@ -82,10 +82,10 @@ They did away with comments and allowed twitter and blog post embeds. This drama
 [A List Apart commenting embeds](http://alistapart.com/blog/post/embeddable-comments-yes-please)
 
 
-#VI. Love thy user as thyself  
+**VI. Love thy user as thyself**  
 “Be good to people. Meet them where they are.”
 
-#VII.  
+**VII.**  
 “Remember the content and keep it holy. This is not the same thing as content is king (or queen).”
 
 Jeremy Keith coined the term “content first.” 
@@ -97,18 +97,18 @@ Examples:
 [EDUniverse](http://eduniverse.org/content-first-jeffrey-zeldman-edui-2011)
 [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile)
 
-#VIII. Ignore workflow at your peril
+**VIII. Ignore workflow at your peril**  
 
-#IX. Thou shalt prioritize
+**IX. Thou shalt prioritize**  
 
 Github has in “issues” tool for prioritizing. To a boss, everything is an emergency. Sometimes we need a tools to help team members visualize priorities.
 
 Examples:  
 [Kick Ass Kickoff Meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
 
-#X. To thine own self be true  
+**X. To thine own self be true**  
 “Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out” --Jeffrey Zeldman
 
-#XI Don't be a lemming!  
+**XI Don't be a lemming!**  
 "Think for yourself. Thank you!" --Jeffrey Zeldman
 
