@@ -47,5 +47,8 @@ Eric points out flexbox picks up equal parent item heights. This might be advant
 **Flexbox allows unit mixing**  
 Eric points out an example where %width measurement is used with a 10 em width to flex horizontal divs used side by side.
 
+**The Holy Grail: Flexbox Edition**  
+Eric walks through a layout using full-width headers, footers, and three column layout using flexible reordering.
+
 
 “ ” ’
