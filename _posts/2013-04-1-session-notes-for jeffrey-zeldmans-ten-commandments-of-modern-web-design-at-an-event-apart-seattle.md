@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Session Notes for Jeffrey Zeldman’s Ten Commandments of Modern Web Design at An Event Apart Seattle 2013
+title: Session Notes for Jeffrey Zeldman’s Ten Commandments of Modern Web Design
 date: 2013-04-1
 categories: [Responsive, Tools]
 author: doug
 ---
+*Notes taken at An Event Apart Seattle 2013*
 
 **I. Thou shalt entertain**  
 We do a lot of work to make sure out sites are accessible, professional, readable… but one of the things that we forget is that we’re in the entertainment business too. If sites don't entertain, they are not engaging. We're competing for attention, the more we do to entertain, the better.
