@@ -5,7 +5,7 @@ date: 2013-04-01
 categories: [Responsive, Tools]
 author: doug
 ---
-*Notes taken at An Event Apart Seattle 2013*
+*Notes taken at An Event Apart Seattle on April 1, 2013*
 
 Eric opens with “in the beginning, Tim said, let there be markup, and Tim saw the markup, and it was good.”
 
