@@ -54,6 +54,7 @@ Meta-testing the testing assumption:
 
 Milton Glaser was asked to explain design and he said ”I move stuff around until it looks right.”
 
+**III. Iterate**  
 Jeffrey shows iteration of design of A List Apart as a sequence.  ”How far can you go redesigning a brand? It depends and this is why iteration is important.”
 
 Jeffrey points out that little text links at the top of A List Apart articles were more effective than graphic links at the bottom. They initially assumed this was a bad thing, but discovered people really do like to tweet things before reading them. They saw a huge uptake in engagement in Twitter by having the small social media text links at the top. Instead of trying to educate readers not to ”tweet before reading, we let them.”
