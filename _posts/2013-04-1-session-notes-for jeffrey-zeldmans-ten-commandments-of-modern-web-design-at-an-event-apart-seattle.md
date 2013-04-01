@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Session Notes for Jeffrey Zeldman’s Ten Commandments of Modern Web Design at An Event Apart Seattle 2013
-date: 2013-03-31
+date: 2013-04-1
 categories: [Responsive, Tools]
 author: doug
 ---
