@@ -117,5 +117,3 @@ Examples:
 **XI. Don’t be a lemming!**  
 “Think for yourself. Thank you!“ --Jeffrey Zeldman
 
-
-“ ” ’
