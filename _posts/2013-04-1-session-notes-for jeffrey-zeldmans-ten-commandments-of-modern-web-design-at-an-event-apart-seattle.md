@@ -6,7 +6,7 @@ categories: [Responsive, Tools]
 author: doug
 ---
 
-**I. Thou shalt entertain**
+**I. Thou shalt entertain**  
 We do a lot of work to make sure out sites are accessible, professional, readable… but one of the things that we forget is that we’re in the entertainment business too. If sites don't entertain, they are not engaging. We're competing for attention, the more we do to entertain, the better.
 Example: [Panic](http://panic.com)
 
@@ -107,8 +107,8 @@ Examples:
 [Kick Ass Kickoff Meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
 
 **X. To thine own self be true**  
-“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out” --Jeffrey Zeldman
+“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out“ --Jeffrey Zeldman
 
-**XI Don't be a lemming!**  
-"Think for yourself. Thank you!" --Jeffrey Zeldman
+**XI. Don't be a lemming!**  
+“Think for yourself. Thank you!“ --Jeffrey Zeldman
 
