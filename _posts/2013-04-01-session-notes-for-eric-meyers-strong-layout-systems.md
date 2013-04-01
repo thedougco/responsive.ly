@@ -52,4 +52,7 @@ Eric walks through a layout using full-width headers, footers, and three column 
 
 Flex-start and flex-end can used to create height variations on three column design and set alignment for an individual box using: center, baseline, flex-end.
 
+**Grid definition** 
+Eric shows a layout example using Grid-definition-columns: grid-definition-rows and grid-definition-columns. 
+
 “ ” ’
