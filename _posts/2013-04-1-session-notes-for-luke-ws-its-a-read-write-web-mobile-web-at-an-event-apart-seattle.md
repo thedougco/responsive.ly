@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Session Notes for Luke W.’s It’s a Read Write ~~Mobile~~ Multi-device Web at An Event Apart Seattle 2013
+title: Session Notes for Luke W.’s It’s a Read Write (Mobile) Web
 date: 2013-04-01
 categories: [Responsive, Tools]
 author: doug
