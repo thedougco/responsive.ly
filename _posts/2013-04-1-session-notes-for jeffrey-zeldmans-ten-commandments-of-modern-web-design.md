@@ -5,6 +5,7 @@ date: 2013-04-1
 categories: [Responsive, Tools]
 author: doug
 ---
+
 *Notes taken at An Event Apart Seattle 2013*
 
 **I. Thou shalt entertain**  
