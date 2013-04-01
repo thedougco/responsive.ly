@@ -44,4 +44,8 @@ Eric shows a visual example Using flex box and justify-content:space-between; to
 
 Eric points out flexbox picks up equal parent item heights. This might be advantageous for certain applications like photo galleries.
 
+**Flexbox allows unit mixing**  
+Eric points out an example where %width measurement is used with a 10 em width to flex horizontal divs used side by side.
+
+
 “ ” ’
