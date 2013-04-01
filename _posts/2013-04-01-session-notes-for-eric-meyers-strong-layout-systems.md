@@ -52,7 +52,13 @@ Eric walks through a layout using full-width headers, footers, and three column 
 
 Flex-start and flex-end can used to create height variations on three column design and set alignment for an individual box using: center, baseline, flex-end.
 
-**Grid definition** 
+**Grid definition**   
+“Grid syntax is going to be a whole new world.” 
+
 Eric shows a layout example using Grid-definition-columns: grid-definition-rows and grid-definition-columns. 
 
-“ ” ’
+**Regions**  
+In the old days, four divs would be used to arrange a quadrant of boxes. With regions, you can define layout areas and have content flow from one box to the next.
+
+**The end of hacks**  
+Layout by design and the ability to control grids are changing radically with new CSS tools. “If there's one thing I want you to take away from this is to challenge your own assumptions.” 
