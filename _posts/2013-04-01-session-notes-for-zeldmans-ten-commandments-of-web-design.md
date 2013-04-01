@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Session Notes for Jeffrey Zeldman’s Strong Layout Systems
-date: 2013-04-01
+title: Session Notes for Jeffrey Zeldman’s Ten Commandments of Modern Web Design
 categories: [Responsive, Tools]
 author: doug
 ---
