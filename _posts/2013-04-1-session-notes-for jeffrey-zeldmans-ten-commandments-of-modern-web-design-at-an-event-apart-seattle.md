@@ -94,7 +94,7 @@ Jeremy Keith coined the term “content first.”
 
 Examples:  
 [Jeremy Keith’s Content First](http://adactio.com/journal/4523/)
-[Mark Boulton's A Richer Canvas](http://www.markboulton.co.uk/journal/a-richer-canvas)
+[Mark Boulton’s A Richer Canvas](http://www.markboulton.co.uk/journal/a-richer-canvas)
 [Jeffrey Zeldman’s Design is Copy is Design](http://www.zeldman.com/2012/12/05/design-is-copy-is-design/)
 [EDUniverse](http://eduniverse.org/content-first-jeffrey-zeldman-edui-2011)
 [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile)
