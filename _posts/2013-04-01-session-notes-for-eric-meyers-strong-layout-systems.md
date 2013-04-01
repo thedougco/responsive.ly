@@ -39,7 +39,7 @@ Eric points out measurement attributes of viewports. VH and VW being used for la
 
 Vmax and Vmin can be used to size fonts proportionate to the viewport. If you thought font sizing was difficult before.
 
-**CSS Flexible Boxes (Flexbox)**  
+**CSS flexible boxes (Flexbox)**  
 Eric shows a visual example Using flex box and justify-content:space-between; to set equal widths between navigation items.
 
 Eric points out flexbox picks up equal parent item heights. This might be advantageous for certain applications like photo galleries.
@@ -47,8 +47,9 @@ Eric points out flexbox picks up equal parent item heights. This might be advant
 **Flexbox allows unit mixing**  
 Eric points out an example where %width measurement is used with a 10 em width to flex horizontal divs used side by side.
 
-**The Holy Grail: Flexbox Edition**  
+**The Holy Grail: flexbox edition**  
 Eric walks through a layout using full-width headers, footers, and three column layout using flexible reordering.
 
+Flex-start and flex-end can used to create height variations on three column design and set alignment for an individual box using: center, baseline, flex-end.
 
 “ ” ’
