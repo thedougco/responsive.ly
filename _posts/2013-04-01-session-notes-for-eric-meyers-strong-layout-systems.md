@@ -35,5 +35,13 @@ We are leaving that era behind. Tools, features, capabilities of CSS are evolvin
 We have these design patterns that we’ve internalized that are based on the limitations of our hacks. Conceptually, as you look  at your designs, try to see your own assumptions.
 
 **Viewport Units**
+Eric points out measurement attributes of viewports. VH and VW being used for layout, and likens them to CSS REMS. These aren't magic units and they can break with incorrect measurements. 
+
+Vmax and Vmin can be used to size fonts proportionate to the viewport. If you thought font sizing was difficult before.
+
+**CSS Flexible Boxes (Flexbox)**  
+Eric shows a visual example Using flex box and justify-content:space-between; to set equal widths between navigation items.
+
+Eric points out flexbox picks up equal parent item heights. This might be advantageous for certain applications like photo galleries.
 
 “ ” ’

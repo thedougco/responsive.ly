@@ -3,7 +3,7 @@ layout: post
 title: Session Notes for Jeffrey Zeldman’s Ten Commandments of Modern Web Design
 date: 2013-04-1
 categories: [Responsive, Tools]
-author: Doug
+author: doug
 ---
 
 *Notes taken at An Event Apart Seattle 2013*
@@ -41,7 +41,7 @@ Jeffrey points out the talking bird, the ”Gnusletter,” pictures of soldiers 
 [Flickr](http://www.flickr.com/)  
 Has intertwining copy excerpts such as greetings in another language. What Zeldman refers to as ”Little, delightful touches.”
 
-**II. Test everything (including assumptions)**  
+**II. Test everything including assumptions**  
 Examples:  
 [Brad Frost's Post on Testing Mobile Devices](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
 
@@ -89,15 +89,19 @@ They did away with comments and allowed twitter and blog post embeds. This drama
 “Be good to people. Meet them where they are.”
 
 **VII.**  
-“Remember the content and keep it holy. This is not the same thing as content is king (or queen).”
+“Remember the content and keep it holy. This is not the same thing as content is king or queen.”
 
 Jeremy Keith coined the term “content first.” 
 
 Examples:  
-[Jeremy Keith’s Content First](http://adactio.com/journal/4523/)
+[Jeremy Keith’s Content First](http://adactio.com/journal/4523/)    
+
 [Mark Boulton’s A Richer Canvas](http://www.markboulton.co.uk/journal/a-richer-canvas)
+
 [Jeffrey Zeldman’s Design is Copy is Design](http://www.zeldman.com/2012/12/05/design-is-copy-is-design/)
+
 [EDUniverse](http://eduniverse.org/content-first-jeffrey-zeldman-edui-2011)
+
 [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile)
 
 **VIII. Ignore workflow at your peril**  
@@ -110,8 +114,8 @@ Examples:
 [Kick Ass Kickoff Meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
 
 **X. To thine own self be true**  
-“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out“ --Jeffrey Zeldman
+“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.“ --Jeffrey Zeldman
 
-**XI. Don't be a lemming!**  
+**XI. Don’t be a lemming!**  
 “Think for yourself. Thank you!“ --Jeffrey Zeldman
 
