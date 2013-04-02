@@ -7,9 +7,9 @@ author: doug
 ---
 *Notes taken at An Event Apart Seattle on April 2, 2013*
 
-Despite changes in web design, there are certain tools that remain the same.
+Mobile first, responsive design, content strategy… the web is changing radically. Despite changes in web design, there are certain tools that remain the same.
 
-**Voice**
+**Voice**  
 We all have a unique voice and it connects us with one another. It’s our voice we use to entertain people, to create a revolution, to educate people, it’s our voice to give people a new perspective.
 
 > People will forget what you said, and what you did, but they will never forget the way you made them feel  
