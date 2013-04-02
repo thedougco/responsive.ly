@@ -12,7 +12,7 @@ Mobile first, responsive design, content strategy… the web is changing radical
 **Voice**  
 We all have a unique voice and it connects us with one another. It’s our voice we use to entertain people, to create a revolution, to educate people, it’s our voice to give people a new perspective.
 
-> People will forget what you said, and what you did, but they will never forget the way you made them feel  
+> “People will forget what you said, and what you did, but they will never forget the way you made them feel”  
 > --Maya Angelou
 
 **Storytelling**  
@@ -51,7 +51,7 @@ All of these finishes are small… *but they are small kindnesses.* Did they hav
 Kindnesses translate into trust.  
 
 **Raleigh Denim as an example of craft**  
->Make better things in a better way  
+>Make better things in a better way.  
 >--Raleigh Denim  
 
 Raleigh Denim uses old machines to manufacture products. They choose old machines. They don’t hire cheap labor. when they make jeans, they hand stamp them. They make 200 jeans every couple of weeks. The founders sign the inside of the jeans. They’ve made something better in a better way.
