@@ -83,7 +83,7 @@ Examples:
 Put the things people use at the sides, not necessarily the main navigation. Josh makes a point that the main navigation is where people go when they can't find what they want in the main canvas. 
 
 **How big should touch targets be?**  
-Seven milimeters – study by Microsoft on touch miss rates vs millimeter target size. Millimeters are poor unit of measurement.
+Seven millimeters – study by Microsoft on touch miss rates vs millimeter target size. Millimeters are poor unit of measurement.
 
 1 pixel = 1/96 inch  
 7mm = 26.457 pixels  
