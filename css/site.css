@@ -177,6 +177,7 @@ Figure & Fig caption
   .sidebar section,
   .sidebar .section {margin:0 0 2em 0; padding:0;}
   .sidebar .social-links li {margin:0 0 1em;}
+  .recent-posts li {margin:0 0 1em; font-size:0.9em; line-height:1.2em;}
 
   /* FOOTER
      ----------------------------------------------------*/
