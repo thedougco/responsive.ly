@@ -32,9 +32,8 @@ We have no empathy for clients. We forget that helping them through that process
 
 Every day some designer declares that client services is dead. But where do you think you can go? There’s no place you can go where client services isn’t part of your job. Your job isn’t just making shit up. It’s 90% convincing people that the shit you thought up is the right thing to do.
 
-*If it helps you do your job it's part of your job.*  
-
--Don’t work with anyone you can’t  
+**If it helps you do your job it's part of your job.**  
+-Don’t work with anyone you can’t respect
 -You can't empathize with someone you don’t respect  
 -Put yourself in your clients’ less stylish shoes  
 
@@ -86,8 +85,6 @@ Hope is not a design word, empathy is. The difference between you and your clien
 **You are not a pixel pusher**  
 That is a self-loathing term. We become order takers. We are responsible for the things that we are putting into the world. You need to expect more from the people you hire. Recognize the power you have to make things happen.   
 
-**Everything that’s wrong with design today is your fault.**  
+**Everything that’s wrong with design today is your fault!**  
 So there should be no question about whose responsibility it is to fix. Thank you, now let’s get to work.
 
-
-“ ” ’
