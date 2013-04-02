@@ -12,10 +12,10 @@ Despite changes in web design, there are certain tools that remain the same.
 **Voice**
 We all have a unique voice and it connects us with one another. It’s our voice we use to entertain people, to create a revolution, to educate people, it’s our voice to give people a new perspective.
 
-> People will forget what you said, and what you did, but they will never forget the way you made them feel
+> People will forget what you said, and what you did, but they will never forget the way you made them feel  
 > --Maya Angelou
 
-**Storytelling**
+**Storytelling**  
 We tell stories with design, with code, through writing. We’re always telling stories and we’ve been doing it for millennia. 
 
 Twitter is a different kind of campfire. It’s a place to gather, connect, tell stories. Brands are tools. Brands are built to sell things and tell stories. At their best they do tell stories and make people feel they belong.
@@ -32,36 +32,40 @@ Vitamin water has a story, a brand and a voice, but it contains so much sugar. I
 Disconnect between midwestern, rolling-fields image they are presenting and the actions they took. 
 
 **Dishonest design**  
-A lot of smart designers worked on these brands to create something dishonest.  
+The point here is that a lot of smart designers worked on these brands to create something *dishonest.*  
 
 [Dieter Ramms](http://en.wikipedia.org/wiki/Dieter_Rams) came up with a list of tenets, and one of them was
 > “Good design is honest. It does not attempt to manipulate consumers with promises that cannot be kept.”
 
-Example of an honest brand:  
 [Simple](https://simple.com/) is an example of an honest brand. They basically work on improving the experience for a customer.
 
 Ways they do this:  
 - They don't charge overdraft fees.  
 - Pass phrases, a more human version of passwords. They solved a security and a usability problem.  
 - Safe-to-spend: they have a number that you can spend based on your current balance and outstanding charges.  
-- Map of all transactions right next to inline help.  
+- Map of all transactions with help in direct proximity. 
 
-All of these finishes are small but they are small kindnesses. Did they have to use design to solve this? No, but it adds up. Kindnesses translate into trust.  
+**Kindnesses translate into trust**  
+All of these finishes are small… *but they are small kindnesses.* Did they have to use design to solve this? No, but it adds up. 
 
+Kindnesses translate into trust.  
+
+**Raleigh Denim as an example of craft**  
 >Make better things in a better way  
 >--Raleigh Denim  
+
 Raleigh Denim uses old machines to manufacture products. They choose old machines. They don’t hire cheap labor. when they make jeans, they hand stamp them. They make 200 jeans every couple of weeks. The founders sign the inside of the jeans. They’ve made something better in a better way.
 
 In an age of access where you can get anything, what we really prize is something that is handmade, unique, just for us, special.
 
-Example:  
+**Other examples of craft:**  
 [Dropbox](https://www.dropbox.com/mobile) – the detail put into the illustration, the custom drop shadows below the illustrations, the demonstration of craft… suggests quality behind the service.
 
 Compare Dropbox to [Box](https://www.box.com/). Box is a good service. It doesn’t communicate the same thing. It doesn’t feel unique. 
 
 This is a comparison between good and great. When we live in a world of access, you have to be great.
 
-**Human presence**
+**Craft as a demonstration of human presence**  
 The difference with Dropbox is there is a demonstration of human presence. That presence is called *personality.* 
 
 The interesting thing about personality is Steven Pinkster 
@@ -71,7 +75,7 @@ The interesting thing about personality is Steven Pinkster
 
 Personality is an important way of connecting to people. Personality is essential. It is not an option
 
-##The benefits of personality  
+##The four benefits of personality in design  
  
 **1. Standing out**  
 Example: [Hipmunk](https://www.hipmunk.com/)
@@ -88,7 +92,7 @@ Dopamine, the pleasure chemical, helps people remember.
 
 Tribes have the power to include. Tribes also has the power to exclude. Tribes say both “we are this, and we are not that.”  But this is important because when you design for everyone, you design for no one. 
 
-Examples:
+Examples:  
 [LGBT Museum](http://nationallgbtmuseum.org/#/home/) –  is personal, real, and transmits a sense of tribe. Brilliant technology and brilliant storytelling.
 
 [Adidas All Design](http://www.adidasdesignstudios.com/) – in order to recruit the right people, they demonstrate personality and craftsmanship.
@@ -97,7 +101,7 @@ Examples:
 
 [Beta Brand](http://www.betabrand.com/) – “We write 30 minutes of content for every product.”
 
-[Brady Williams](http://bradywilliams.co/)  
+[Brady Williams](http://bradywilliams.co/) – lovely demonstration of human values and craft
 
 As designers, we often ask, who are they? When we should be asking, who are we? In my time at Mailchimp, we've tried to approach each design as a person. We have a list of brand traits
 
