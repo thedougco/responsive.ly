@@ -11,12 +11,13 @@ It's 2001. There was something called Ginger on the horizon, or simply “IT.”
 
 IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a complete novelty.
 
-**Who did the Segway exclude:**  
-- Anyone with children
-- Anyone without 5 or 6 grand to spend
-- Anyone who lives in a harsh climate
-- Anyone who has to carry more than 20 lbs
-- Anyone who has to go more than 5 miles
+**Who did the Segway exclude?**    
+- Anyone with children  
+- Anyone who needed to transport another human  
+- Anyone without 5 or 6 grand to spend  
+- Anyone who lives in a harsh climate  
+- Anyone who has to carry more than 20 lbs  
+- Anyone who has to go more than 5 miles   
 
 **So who was the Segway changing the world for?**   
 Affluent singles who live in southern California.
