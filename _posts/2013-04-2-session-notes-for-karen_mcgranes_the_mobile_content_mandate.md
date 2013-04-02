@@ -7,24 +7,25 @@ author: doug
 ---
 *Notes taken at An Event Apart Seattle on April 2, 2013*
 
-**Lessons Learned from DEC**
+**Lessons Learned from DEC**  
 At their peak, Digital Equipment Corporation was the world's second largest computer corporation. Second only to IBM. They were good at making mainframes. DEC began to shift their model toward mini-computers like the PDP-4. With smaller minicomputers, individual departments could focus on their own computing tasks.
 
 The PDP-8 was DEC’s breakthrough model. It was sold back in the 70s and 80s. Karen shows a picture of Ken Olsen, their CEO. He has overseen decades of growth and new products and services. 
 
->There is no reason for any individual to have a computer in his home
+>There is no reason for any individual to have a computer in his home.
 > --Ken Olsen
 
 1988, DEC began making VAX-11 computers using VT100 graphics processing terminals. DEC was sitting on top of the world. They had no reason to believe their entire business would be destroyed by one of these *cheap pieces of crap.* Karen shows some of the first generation PCs.
 
 Compared to a VAX machine PCs were like a child’s toy. 
 
-**DEC: a timeline**
-*1988*
+**DEC: a timeline**  
+
+*1988*  
 DEC is the world's second largest computer company
 They are the second largest employer in MASS
 
-1990  
+*1990*  
 Posts its first quarterly loss
 
 *1991* 
@@ -32,13 +33,13 @@ They post their first full-year loss
 
 They lost money for 5 out of the next 7 years
 
-*1998*
+*1998*  
 Acquired by Compaq, out of business… gone. Purchased by a manufacturer who made PCs, those cheap pieces of garbage.
 
 No way they could have foreseen this right?
 
->"In industry after industry, the new technologies that brought the big, established companies to their knees weren't better or more advanced, they were actually worse." 
->--The New York
+>“In industry after industry, the new technologies that brought the big, established companies to their knees weren't better or more advanced, they were actually worse.” 
+>--The New Yorker
 
 **Disruptive innovation happens on the low end**  
 When a cheap product gets introduced, it may not be better on any spectrum of quality. But the affordability creates a new market with a group of people who could not afford it before. Historically, this happens time and time again.
@@ -60,7 +61,8 @@ We are in the midst of another form of disruptive innovation. Today, mobile phon
 Clayton Christiansen, who came up with the the theory of disruptive innovation, predicted the iPhone would fail, because it was not low end. He saw a fancy phone, not something that would create a new market.
 
 **The Digital Divide**  
-As professionals it’s easy for us to forget the population that does not have internet access. 
+As professionals it’s easy for us to forget the population that does not have internet access.  
+ 
 - 20% of Americans have no internet access  
 - 35% have no internet access at home  
 - 29% of black Americans have no internet access  
@@ -75,7 +77,7 @@ As professionals it’s easy for us to forget the population that does not have 
 
 Conversely, 88% of Fortune 500 companies only put job postings on the internet.
 
-Lots of people out there have no broadband access. But Mobile ownership is on the rise.
+Lots of people out there have no broadband access. But mobile ownership is on the rise.
 
 **Mobile ownership**  
 - 85% of US citizens had mobile phones in 2009  
@@ -106,7 +108,7 @@ Karen shows a Bank of America example where you can only perform three tasks. He
 
 Karen points out several examples, including United, as mobile experiences where information is vexingly out of reach. We are treating mobile users as second-class citizens because we are not providing them with the same utility and information. Mobile-only users get a watered-down internet.
 
-*This isn't good enough.* All of our users deserve a better experience.
+*This isn't good enough.* All of our users deserve a better experience. There are three things you can be doing right now to improve the mobile experience.
 
 ##1. You need a content strategy for mobile  
 Karen shamelessly points us to [her book](http://www.abookapart.com/products/content-strategy-for-mobile).
@@ -151,10 +153,10 @@ Karen points out Blockbuster’s flawed mobile experience, how they simply trunc
 
 She compares Verizon’s mobile content to Comcast’s mobile content. The Comcast version has summaries connected to navigation. She points out this is a vast improvement, particularly for mobile users. This is an example of developing a flexible system.
 
-##3.Don't create content for a specific context.  
-Instead, designs a system of content that is meant to deploy content to the broadest number of systems
+##3. Don’t create content for a specific context.  
+Instead, design a system of content that is meant to deploy content to the broadest number of display systems.
 
-We don't get to decide where people access our content. They–users–do.
+We don’t get to decide where people access our content. They–users–do.
 
 Disruptive technologies eventually get good. Or they redefine what good means. Cheap devices change how you think about what good is. Your values around why the desktop is good are the same values held by the people who made furniture radio or manufactured film. Access to new markets changes what it means to interact with content.
 
