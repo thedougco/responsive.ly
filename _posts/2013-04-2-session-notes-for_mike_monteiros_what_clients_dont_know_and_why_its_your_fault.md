@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Session Notes for Mike Monteiro’s The Mobile Content Mandate
+title: Session Notes for Mike Monteiro’s What Clients Don’t Know and Why It’s Your Fault
 date: 2013-04-02
 categories: [Responsive, Tools]
 author: doug
