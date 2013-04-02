@@ -22,7 +22,7 @@ IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a c
 **So who was the Segway changing the world for?**   
 Affluent singles who live in southern California.
 
-**Why Research?**
+**Why Research?**  
 Frequently, there is a gap between your assumptions and the actual world. This gap gets filled with hype, wishful thinking, and most importantly risk.
 
 *User research can increase knowledge and decrease risk.*  
