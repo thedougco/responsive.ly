@@ -19,7 +19,7 @@ IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a c
 - Anyone who has to carry more than 20 lbs  
 - Anyone who has to go more than 5 miles   
 
-**So who was the Segway changing the world for?**   
+**Who was the Segway changing the world for?**   
 Affluent singles who live in southern California.
 
 **Why Research?**  
@@ -65,7 +65,7 @@ This is the kind of research Erika is most interested in. Real-word, lighter-wei
 
 If your research helped you meet your stated goal, it succeeded. 
 
-**Design Research**  
+**Design research**  
 This started about thirty years ago. A number of techniques to gather opinions about creative work.
 
 Design research is meant to:  
@@ -85,7 +85,7 @@ Research is not a political tool.
 
 (Applied) research is not SCIENCE. Avoid conversation about statistical significance. Focus on getting useful insight.
 
-**What research is not** 
+**What research is** 
 Research is one very simple process:
 Form questions, consider / observe / interview, analyze data. 
 
