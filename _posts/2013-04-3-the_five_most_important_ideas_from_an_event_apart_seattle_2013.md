@@ -40,7 +40,7 @@ Between these two ideas about underserved demographics and emerging markets we b
 *An emergent kind of web accessibility*  
 We might say good mobile design *is* the new accessibility. Because there are other factors for accessibility already in play on the web, its a little more accurate to add some qualifiers. Multi-device web design, specifically in a mobile context, represents a new, emergent kind of accessibility for underserved markets and developing countries. 
 
-###3. Break your assumptions down to the atomic level  
+###3. Break your assumptions about down to the atomic level  
 
 *Disruptive technology calls for disruptive methods*  
 Jason Santa Maria[(@jasonsantamaria)](https://twitter.com/jasonsantamaria) presented on changing design process to be more nimble. Jason eschews dogma, instead proposing designers think critically about using the right *tool* for the right *audience* in the right *situation.* 
@@ -72,13 +72,13 @@ Aaron Walter [(@aarron)](https://twitter.com/aarron), in his presentation [The R
 
 Work like a horse? *More like work like unicorn.* The unicorn is Jared Spool’s metaphor for the UX generalist: a designer with skills in storytelling, critiquing, sketching, and presenting.  UX generalists are more useful to teams than specialists.
 
-“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.“ --Jeffrey Zeldman
+“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.” --Jeffrey Zeldman
 
 Finally, Jeffrey Zeldman [(@zeldman)](https://twitter.com/zeldman) closed [his session](http://responsive.ly/2013/04/session-notes-for-zeldmans-ten-commandments-of-web-design/) with two commandments dealing with uniqueness:
 
-*The Tenth and Eleventh Commandments of Modern Web Design*
+*The Tenth and Eleventh Commandments of Modern Web Design*  
 X. To thine own self be true  
-*and*
-XI. Don’t be a lemming
+*and*  
+XI. Don’t be a lemming  
 
 If you want to be one of the people who builds things that matter, you have to have enough courage to stand apart from the pack.
