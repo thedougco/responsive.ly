@@ -11,7 +11,7 @@ You are all in the confidence game. You are always, always convincing someone of
 
 Last year I wrote [this book](http://www.abookapart.com/products/design-is-a-job). It’s filled with stories about how I screwed things up in the past. It was written with the intent of you taking a lot more responsibility for your job.
 
-You cannot put the ownness of your job on someone else. Today we’ll talk about my favorite people: clients. We'll talk about what they don't know and why it's your fault.
+You cannot put the ownness of your job on someone else. Today we’ll talk about my favorite people: clients. We'll talk about what they don't know and why it's your fault.<!-- more -->
 
 **Mike’s Story**  
 I used to live in Austin, Texas. It's incredibly hot and I'm lazy and I used to drive everywhere. I got really fat until I moved to San Fracisco where I got a bike. 

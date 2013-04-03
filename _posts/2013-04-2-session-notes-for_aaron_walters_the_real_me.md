@@ -10,7 +10,7 @@ author: doug
 Mobile first, responsive design, content strategy… the web is changing radically. Despite changes in web design, there are certain tools that remain the same.
 
 **Voice**  
-We all have a unique voice and it connects us with one another. It’s our voice we use to entertain people, to create a revolution, to educate people, it’s our voice to give people a new perspective.
+We all have a unique voice and it connects us with one another. It’s our voice we use to entertain people, to create a revolution, to educate people, it’s our voice to give people a new perspective.<!-- more -->
 
 > “People will forget what you said, and what you did, but they will never forget the way you made them feel”  
 > --Maya Angelou

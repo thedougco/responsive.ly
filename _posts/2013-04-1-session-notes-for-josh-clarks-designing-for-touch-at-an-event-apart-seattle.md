@@ -11,7 +11,7 @@ author: doug
 
 There is no one true input for the web. Responsive design meant a shift in displays, but device fragmentation has meant fragmentation in input types.
 
-We've been designing for touch for several years. But 31% of US adults own tablets now. It's up from 12% a year ago. 
+We've been designing for touch for several years. But 31% of US adults own tablets now. It's up from 12% a year ago. <!-- more -->
 
 “Every desktop design has to be touch-friendly.” A lot of us see our design work as visual design. When we design for touch we go beyond the visible and into the physical. It's not only how pixels look but how they feel. You're now an industrial design, it's a craft of designing a physical thing. We now have to consider ergonomics and how designs feel in the hand.
 

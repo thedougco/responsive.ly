@@ -11,7 +11,7 @@ We do a lot of work to make sure out sites are accessible, professional, readabl
 Example: [Panic](http://panic.com)
 
 “Hi” is kind of like “welcome to our website. What good is it?”
-Jeffrey points out the success of Panic’s skeuomorphic icons. They go for cute and fun, and the touch/hover events give you more information. It sets a tone that is fun, conversational, friendly, and it makes the software loved vs. other software that is equally as good. Panic succeeds because it has such a fun ambient connection to users. 
+Jeffrey points out the success of Panic’s skeuomorphic icons. They go for cute and fun, and the touch/hover events give you more information. It sets a tone that is fun, conversational, friendly, and it makes the software loved vs. other software that is equally as good. Panic succeeds because it has such a fun ambient connection to users.<!-- more -->
 
 “Nothing kills a bad product faster than bad advertising. Entertainment all the way down.”
 

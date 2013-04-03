@@ -14,7 +14,7 @@ The web was designed to be for visual devices. Most mediums are really obsessed 
 **This fallen web**  
 As with all creations, there was a fall, and as usual a reptile (Netscape) was to blame. In the ancient tongue, “Mozilla” or creator of inconsistencies" was to blame. 
 
-They began to introduce extension to HTML, everything that mad things visual. The HR and IMG tags. “Netscape should now properly  deal with the awful comments sequence.” And it didn't stop there. Pretty soon it became tables all the way down. 
+They began to introduce extension to HTML, everything that mad things visual. The HR and IMG tags. “Netscape should now properly  deal with the awful comments sequence.” And it didn't stop there. Pretty soon it became tables all the way down. <!-- more -->
 
 “Why did the web designer leave the restaurant? Because he was offended by the table layout.”
 

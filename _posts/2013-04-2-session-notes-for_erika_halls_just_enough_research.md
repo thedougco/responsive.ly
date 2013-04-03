@@ -9,7 +9,7 @@ author: doug
 
 It's 2001. There was something called Ginger on the horizon, or simply “IT.” Jeff Bezos was into “IT.” Bono was into “IT.” 10s of millions of dollars were being poured into “IT.” Maybe bigger than the internet. Finally, in December 2001, “IT” was revealed.
 
-IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a complete novelty.
+IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a complete novelty.<!-- more -->
 
 **Who did the Segway exclude?**    
 - Anyone with children  

@@ -11,7 +11,7 @@ author: doug
 Ethan’s session is about the map, the territory and the need for wide open roads. First he tells us of the first map he ever saw, at his grandmother’s house, and then proceeds into a story about William Fairfield Warren.
 
 **William Fairfield Warren**  
-[William Fairfield Warren](http://en.wikipedia.org/wiki/William_Fairfield_Warren) was a minister whose life was radically altered by Charles Darwin’s work. He wondered what questions to ask in the wake of the revelations about evolution and decided to go in search of the physical location of Eden. 
+[William Fairfield Warren](http://en.wikipedia.org/wiki/William_Fairfield_Warren) was a minister whose life was radically altered by Charles Darwin’s work. He wondered what questions to ask in the wake of the revelations about evolution and decided to go in search of the physical location of Eden.<!-- more -->
 
 He did some research about where Eden could be on the globe, and he deduced there was only one possible location: the North Pole.  The irony in the story is what man's incomplete understanding of the territory leads to. 
 

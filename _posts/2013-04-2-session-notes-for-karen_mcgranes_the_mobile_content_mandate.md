@@ -10,7 +10,7 @@ author: doug
 **Lessons Learned from DEC**  
 At their peak, Digital Equipment Corporation was the world's second largest computer corporation. Second only to IBM. They were good at making mainframes. DEC began to shift their model toward mini-computers like the PDP-4. With smaller minicomputers, individual departments could focus on their own computing tasks.
 
-The PDP-8 was DEC’s breakthrough model. It was sold back in the 70s and 80s. Karen shows a picture of Ken Olsen, their CEO. He has overseen decades of growth and new products and services. 
+The PDP-8 was DEC’s breakthrough model. It was sold back in the 70s and 80s. Karen shows a picture of Ken Olsen, their CEO. He has overseen decades of growth and new products and services.<!-- more -->
 
 >There is no reason for any individual to have a computer in his home.
 > --Ken Olsen

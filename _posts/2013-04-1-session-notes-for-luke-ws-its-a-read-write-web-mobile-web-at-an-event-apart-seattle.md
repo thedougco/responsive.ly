@@ -9,7 +9,7 @@ author: doug
 
 Over the past couple of years, Luke W. has been doing a couple of things. He has been helping big companies with their mobile strategies, but he has also been working on his own small company. This session is based on his own micro- and macro- experiences.
 
-Luke W. Lives in Silicon Valley and has some interesting neighbors: Facebook, Yahoo, AOL, Google, and YouTube. Why is he giving us the map of “internet places by Luke W.'s house?” What do they have in common?
+Luke W. Lives in Silicon Valley and has some interesting neighbors: Facebook, Yahoo, AOL, Google, and YouTube. Why is he giving us the map of “internet places by Luke W.'s house?” What do they have in common?<!-- more -->
 
 The companies near Luke W.'s house are the top sites in the US by time spent per user as of September 2012, in this order:  
 Facebook  
