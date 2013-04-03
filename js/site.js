@@ -1,3 +1,10 @@
+$('.skip-links').on('click', '.s2n', function(e) {
+  e.preventDefault();
+  $('html,body').animate({
+    scrollTop: $('#nav').offset().top
+  });
+});
+
 /*!
  * Replace no-js on HTML with js
  */
