@@ -127,7 +127,7 @@ acronym, abbr, span.caps {font-size:0.9em; letter-spacing:.07em;}
   .social-links li {margin:0; padding:0; line-height:1em;}
   .social-links a {display:block; text-decoration:none;}
     .social-links a:hover {text-decoration:underline;}
-  .social-links a img {vertical-align:top; margin-right:8px;}
+  .social-links a img {vertical-align:baseline; margin-right:8px;}
 
 /*================================
 Figure & Fig caption
