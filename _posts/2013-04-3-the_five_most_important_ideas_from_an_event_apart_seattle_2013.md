@@ -32,13 +32,13 @@ In her presentation [The Mobile Content Mandate](http://responsive.ly/2013/04/se
 >- 59% have no broadband access at home  
 >- 57% of Americans without a high school diploma have no internet  access  
 
-*Mobile-only users are precisely the demographic who need the web the most*  
-[Ethan Marcotte](https://twitter.com/beep) did a presentation called [the Map is not the Territory](http://responsive.ly/2013/04/session-notes-for-ethan_marcottes_the_map_is_not_the_territory_at_an_event_apart_seattle/) on the cognitive divide between problems and solutions in web design. Ethan pointed out how ~90% of new market penetration for mobile is happening in developing countries. In other words, a majority of the world now coming online for the first time using relatively cheap devices. Ethan further pointed out that many uses for mobile technology in developing countries aren’t luxuries. Smartphones are being used to do things such as [report corruption](http://www.hatari.co.ke/) or [find water](http://mmaji.wordpress.com/). 
+*Mobile-only users are precisely the demographic that needs the web the most*  
+[Ethan Marcotte](https://twitter.com/beep) did a presentation called [the Map is not the Territory](http://responsive.ly/2013/04/session-notes-for-ethan_marcottes_the_map_is_not_the_territory_at_an_event_apart_seattle/) on the cognitive divide between problems and solutions in web design. Ethan pointed out how ~90% of new market penetration for mobile is happening in developing countries. In other words, a majority of the world now coming online for the first time using relatively cheap devices. Uses for mobile technology in developing countries aren’t luxuries. Smartphones are being used to do things such as [report corruption](http://www.hatari.co.ke/) or [find water](http://mmaji.wordpress.com/). 
 
 Between these two ideas about underserved demographics and emerging markets we begin to see a theme about the importance of making content and utilities accessible on mobile devices. If we aren’t delivering good content to mobile users, as Karen suggests, we’re *treating the people who need the web the most* as second-class citizens. 
 
 *An emergent kind of web accessibility*  
-We might say good mobile design *is* the new accessibility. Because there are other factors for accessibility already in play on the web, its a little more accurate to add some qualifiers to that statement. Multi-device web design, specifically in a mobile context, represents a new, emergent kind of accessibility for underserved markets and developing countries. 
+We might say good mobile design *is* the new accessibility. Because there are other factors for accessibility already in play on the web, its a little more accurate to add some qualifiers. Multi-device web design, specifically in a mobile context, represents a new, emergent kind of accessibility for underserved markets and developing countries. 
 
 ###3. Break your assumptions down to the atomic level  
 
@@ -56,21 +56,21 @@ Erika Hall [(@mulegirl)](http://responsive.ly/2013/04/session-notes-for_erika_ha
 >  “Your job isn’t just making shit up. It’s 90% convincing people that the shit you thought up is the right thing to do.”   
 >  --Mike Monteiro  
 
-Mike Monteiro ([@mike_ftw])(https://twitter.com/mike_ftw) gave a presentation on skills designers must develop to develop better client relationships. It comes down to empathy.  
+Mike Monteiro [(@mike_ftw)](https://twitter.com/mike_ftw) gave a presentation on skills designers must develop to develop better client relationships. It comes down to empathy.  
 
 > “You are not the sum of your sites, you are the sum of your problem solving.”   
 > --Mike Monteiro  
 
 *Explanations > tools*  
-Your powers of explanation are how the you close the distance between your ideas and your client. Jason Santa Maria reinforced this point in his presentation with personal anecdotes. How a designer explains an idea is more important than any tactical tool in the design process.
+Explanations are how to close the distance between your ideas and your client. Jason Santa Maria reinforced this point in his presentation with personal anecdotes. How a designer explains an idea is more important than any tactical tool in the design process.
 
-Aaron Walter ([@aarron])(https://twitter.com/aarron), in his presentation [The Real Me](http://responsive.ly/2013/04/session-notes-for_aaron_walters_the_real_me/), talked about the benefits of inserting personality into design. Personality is a way of establishing empathy between a visitor and a brand. By adding empathy, craft, unique content, and voice into our designs, we can demonstrate values and create the kinds of experiences that set us apart from our competitors.  
+Aaron Walter [(@aarron)](https://twitter.com/aarron), in his presentation [The Real Me](http://responsive.ly/2013/04/session-notes-for_aaron_walters_the_real_me/), talked about the benefits of inserting personality into design. Personality is a way of establishing empathy between a visitor and a brand. By adding empathy, craft, unique content, and voice into our designs, we can demonstrate values and create the kinds of experiences that set us apart from our competitors.  
 
-###Be a unicorn.  
+###5. Be a unicorn.  
 > “Unicorns exist. You can become one!”  
 > --Jared Spool  
 
-Work like a horse? *More like work like unicorn.* The unicorn is Jared Spool’s metaphor for the UX generalist: a designer with skills in storytelling, critiquing, sketching, and presenting. He mades the point that UX generalists are more useful to teams than specialists.
+Work like a horse? *More like work like unicorn.* The unicorn is Jared Spool’s metaphor for the UX generalist: a designer with skills in storytelling, critiquing, sketching, and presenting.  UX generalists are more useful to teams than specialists.
 
 “Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.“ --Jeffrey Zeldman
 
