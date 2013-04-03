@@ -28,11 +28,6 @@ html {width:100%; margin:0; padding:0; font-size:100%; overflow-y:scroll;
   -webkit-font-smoothing:antialiased;
   -moz-font-smoothing:antialiased;
   font-smoothing:antialiased;
-  -webkit-hyphens:auto;
-     -moz-hyphens:auto;
-      -ms-hyphens:auto;
-       -o-hyphens:auto;
-          hyphens:auto;
 }
 body {width:100%; margin:0; padding:0; color:#333; font:1.5em/1.9em Lato, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff;}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
@@ -148,7 +143,7 @@ Figure & Fig caption
 @media screen,projection {
   /* WRAPPER
      ----------------------------------------------------*/
-  .wrapper {margin:40px 2% 0;}
+  .wrapper {margin:1em;}
   .wrapper:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
   .skip-links {display:block; clip:auto; position:relative; width:auto; height:auto; overflow:hidden; margin:0; font-size:0.8em; line-height:1.6em;}
     .skip-links ul {margin:0; padding:0; list-style:none;}
@@ -172,7 +167,7 @@ Figure & Fig caption
   /* HEADER
      ----------------------------------------------------*/
   .site-header {margin:0 0 2em;}
-    .site-header h1 {margin:2em 0 0; font-size:2.0em; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
+    .site-header h1 {margin:2em 0 0; font-size:1.8em; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
     .site-header h1 a {text-decoration:none; border:0 none;}
 
   /* CONTENT
@@ -210,7 +205,7 @@ Figure & Fig caption
  ************************************************************************************/
 /* 444 */
 @media only screen and (min-width:27.75em) {
-  .site-header h1 {margin:0;}
+  .site-header h1 {margin:0; font-size:2em;}
 }
 
 /* 580 */
