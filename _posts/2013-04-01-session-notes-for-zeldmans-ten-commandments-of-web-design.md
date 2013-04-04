@@ -8,7 +8,7 @@ author: doug
 
 ## I. Thou shalt entertain
 
-We do a lot of work to make sure out sites are accessible, professional, readable… but one of the things that we forget is that we’re in the entertainment business too. If sites don't entertain, they are not engaging. We're competing for attention, the more we do to entertain, the better.
+We do a lot of work to make sure out sites are accessible, professional, readable… but one of the things that we forget is that we’re in the entertainment business too. If sites don't entertain, they are not engaging. We're competing for attention, the more we do to entertain, the better.<!-- more -->
 Example: [Panic](http://panic.com)
 
 “Hi” is kind of like “welcome to our website. What good is it?”
