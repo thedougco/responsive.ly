@@ -39,7 +39,8 @@ The point here is that a lot of smart designers worked on these brands to create
 
 [Simple](https://simple.com/) is an example of an honest brand. They basically work on improving the experience for a customer.
 
-Ways they do this:  
+Ways they do this:
+
 - They don't charge overdraft fees.  
 - Pass phrases, a more human version of passwords. They solved a security and a usability problem.  
 - Safe-to-spend: they have a number that you can spend based on your current balance and outstanding charges.  
@@ -105,7 +106,8 @@ Examples:
 
 As designers, we often ask, who are they? When we should be asking, who are we? In my time at Mailchimp, we've tried to approach each design as a person. We have a list of brand traits
 
-**Mailchimp brand attributes**  
+**Mailchimp brand attributes**
+
 - Fun but not childish  
 - Funny but not goofy  
 - Powerful but not complicated  

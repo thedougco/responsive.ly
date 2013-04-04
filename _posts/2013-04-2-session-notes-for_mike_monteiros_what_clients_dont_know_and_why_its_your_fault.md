@@ -32,10 +32,11 @@ We have no empathy for clients. We forget that helping them through that process
 
 Every day some designer declares that client services is dead. But where do you think you can go? There’s no place you can go where client services isn’t part of your job. Your job isn’t just making shit up. It’s 90% convincing people that the shit you thought up is the right thing to do.
 
-**If it helps you do your job it's part of your job.**  
--Don’t work with anyone you can’t respect
--You can't empathize with someone you don’t respect  
--Put yourself in your clients’ less stylish shoes  
+**If it helps you do your job it's part of your job.**
+
+- Don’t work with anyone you can’t respect
+- You can't empathize with someone you don’t respect
+- Put yourself in your clients’ less stylish shoes
 
 Annoyance is easy. You can’t change how others act. You can change how others behave. 
 
@@ -54,24 +55,28 @@ Don’t take on a client that isn’t the right match for them. They will pull y
 
 How do the right designers find the right clients? We’ll look at two ways.  
 
-**1. Referrals**  
+**1. Referrals**
+
 - These are the best way to start a relationship.  
 - It means you’re not an asshole.  
 - It means your empathetic to them.  
 - Referrals are the most precious commodity you have.  
 - Every job you do is a sales pitch for the next job.  
 
-**2. RFPs**  
+**2. RFPs**
+
 - RFPs suck. I enjoy building a relationship with clients. There is no better way to measure a way if the fit is good outside of talking to one another. The solution needs to emerge from the two of us working together.  
 - RFPs may be a client’s way to tell you they’re scared.  
 - RFPs often come from a client not knowing what to do.  
 
-**Finding better client relationships**  
-*Learn to say no*  
-*Learn to ask possible clients why* don't engage in design   without understanding the problem.  
-*Learn to say I don’t know.*  
+**Finding better client relationships**
+
+1. *Learn to say no*  
+2. *Learn to ask possible clients why* don't engage in design without understanding the problem.  
+3. *Learn to say I don’t know.*  
 
 **Explaining why things cost what they do**  
+
 - putting costs in context for clients  
 - not just breaking down pricing, but showing the process  
 

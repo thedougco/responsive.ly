@@ -80,6 +80,7 @@ Conversely, 88% of Fortune 500 companies only put job postings on the internet.
 Lots of people out there have no broadband access. But mobile ownership is on the rise.
 
 **Mobile ownership**  
+
 - 85% of US citizens had mobile phones in 2009  
 - 88% of US citizens had mobile phones in 2012  
 - 31% of US citizens used mobile internet in 2009  
@@ -91,6 +92,7 @@ The largest growth of people who are getting smartphones is people who do NOT ha
 This is the user who mostly or primarily accesses the internet through a phone. 
 
 **Mobile-only demographics**  
+
 - Of 55% of Americans who use their mobile phones to go online, 
 - 31% only or mostly use the internet on mobile.  
 - 43% of low only or mostly use the internet on mobile  
@@ -100,6 +102,7 @@ This is the user who mostly or primarily accesses the internet through a phone.
 Mobile was the final frontier in the access revolution. 
 
 **Missed opportunities for the mobile-only user**  
+
 - 21% of large advertisers have a mobile website.  
 - 16% of consumer brands have a mobile strategy.  
 - 20% B2B brands have a mobile strategy  
