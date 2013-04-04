@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Five Most Important Themes from An Event Apart Seattle 2013
-date: 2013-04-02
+date: 2013-04-03
 categories: [Responsive, Tools]
 author: doug
 ---
