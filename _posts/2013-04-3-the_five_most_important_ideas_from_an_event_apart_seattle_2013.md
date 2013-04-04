@@ -15,7 +15,7 @@ author: doug
 >--@Luke W. 
 
 *Pay attention to the inversion*  
-In [Luke W’spresentation](http://responsive.ly/2013/04/session-notes-for-luke-ws-its-a-read-write-web-mobile-web-at-an-event-apart-seattle/), he deliberately inverts the order of a common phrase on the web, “read/write.” He instead uses a “write/read” order to place primary importance on content generation. The companies and designers who are lowering the difficulty and speed for content generation and submission are creating the most used sites and apps on the web. 
+In [Luke W’spresentation](http://responsive.ly/2013/04/session-notes-for-luke-ws-its-a-read-write-web-mobile-web-at-an-event-apart-seattle/), he deliberately inverts the order of a common phrase on the web, “read/write.” He instead uses a “write/read” order to place primary importance on content generation. The companies and designers who are lowering the difficulty / raising the speed of content submission are creating the most used sites and apps on the web. 
 
 *Multiple ways to write, multiple ways to read*  
 Josh Clark’s [Desinging for Touch](http://responsive.ly/2013/04/session-notes-for-josh-clarks-designing-for-touch-at-an-event-apart-seattle/) presentation is about how input use cases change dramatically based on human ergonmoics… specifically how we use our thumbs, fingers, and arms to interface with devices. Most of the speakers at the conference touched on the idea of the multi-device web in some way: we’re in a disruptive period of the web, an era of sequential browsing. Desktop-first methodologies are being replaced by strategies and solutions that solve for multiple inputs and multiple screens. 
