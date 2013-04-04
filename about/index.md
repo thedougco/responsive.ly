@@ -20,4 +20,4 @@ Doug Gapinski [(@thedougco)](http://www.twitter.com/thedougco) is a Strategist a
 
 ## Erik Runyon
 
-Erik Runyon [(@erunyon)](http://www.twitter.com/erunyon) is Manager of Interactive Development at the University of Notre Dame where he oversees the development of university web properties and sets development standards for University Communications. He is a staunch advocate of accessibility, semantics, the mobile experience, and data portability. Erik also writes on [WeedyGarden.net](http://www.weedygarden.net/) and the [ND.edu blog](http://blogs.nd.edu/nddotedu/).
+Erik Runyon [(@erunyon)](http://www.twitter.com/erunyon) is Director of Web Communications at the University of Notre Dame where he oversees the design and development of university web properties and sets development standards for University Communications. He is a staunch advocate of accessibility, semantics, the mobile experience, and data portability. Erik also writes on [WeedyGarden.net](http://www.weedygarden.net/) and the [ND.edu blog](http://blogs.nd.edu/nddotedu/).
