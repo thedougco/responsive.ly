@@ -82,4 +82,4 @@ X. To thine own self be true
 *and*  
 XI. Don’t be a lemming  
 
-It’s a proven fact that lemmings and unicorns live on opposite ends of the evolutionary spectrum. Lemmings follow their fellow rodents, while unicorns prance around shooting rainbow-colored lasers of their shining horns. I don’t have to tell you which of these beasts to choose as your spirit animal. If you want to build things that matter, you have to have enough courage to stand apart from the pack.
+It’s a proven fact that lemmings and unicorns live at opposite ends of the evolutionary spectrum. Lemmings follow their fellow rodents, while unicorns prance around shooting rainbow-colored lasers of their shining horns. I don’t have to tell you which of these beasts to choose as your spirit animal. If you want to build things that matter, you have to have enough courage to stand apart from the pack.
