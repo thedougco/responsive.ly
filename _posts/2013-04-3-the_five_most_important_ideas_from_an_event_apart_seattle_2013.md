@@ -9,7 +9,7 @@ author: doug
 
 <!-- more -->
 
-###1. It’s a read/write <del>mobile</del> multi-device web.  
+##1. It’s a read/write <del>mobile</del> multi-device web.  
 
 > “What do Facebook, Yahoo, AOL, Google, and YouTube… the sites on the web where people spend the most time… have in common? They all offer write / read experiences. They don't work unless people add or write content to them.”  
 >--@Luke W. 
@@ -20,7 +20,7 @@ In [Luke W’spresentation](http://responsive.ly/2013/04/session-notes-for-luke-
 *Multiple ways to write, multiple ways to read*  
 Josh Clark’s [Desinging for Touch](http://responsive.ly/2013/04/session-notes-for-josh-clarks-designing-for-touch-at-an-event-apart-seattle/) presentation is about how input use cases change dramatically based on human ergonmoics… specifically how we use our thumbs, fingers, and arms to interface with devices. Most of the speakers at the conference touched on the idea of the multi-device web in some way: we’re in a disruptive period of the web, an era of sequential browsing. Desktop-first methodologies are being replaced by strategies and solutions that solve for multiple inputs and multiple screens. 
 
-###2. Good mobile design represents a new, emergent kind of accessibility.  
+##2. Good mobile design represents a new, emergent kind of accessibility.  
 
 *We must not short-change the mobile-only users!*  
 In her presentation [The Mobile Content Mandate](http://responsive.ly/2013/04/session-notes-for-karen_mcgranes_the_mobile_content_mandate/), Karen McGrane [(@karenmcgrane)](https://twitter.com/karenmcgrane) pointed out some compelling statistics about mobile-only or primarily mobile users in the US:  
@@ -40,7 +40,7 @@ Between these two ideas about underserved demographics and emerging markets we b
 *An emergent kind of web accessibility*  
 We might say good mobile design *is* the new accessibility. Because there are other factors for accessibility already in play on the web, its a little more accurate to add some qualifiers. Multi-device web design, specifically in a mobile context, represents a new, emergent kind of accessibility for underserved markets and developing countries. 
 
-###3. Break your assumptions about web design process down to the atomic level.  
+##3. Break your assumptions about web design process down to the atomic level.  
 
 *Disruptive technology calls for disruptive methods*  
 Jason Santa Maria[(@jasonsantamaria)](https://twitter.com/jasonsantamaria) presented on changing design process to be more nimble. Jason eschews dogma, instead proposing designers think critically about using the right *tool* for the right *audience* in the right *situation.* 
@@ -50,7 +50,7 @@ In an era where web design conventions are being disrupted, we can’t rely on a
 *Research as relentless improvement*  
 Erika Hall [(@mulegirl)](http://responsive.ly/2013/04/session-notes-for_erika_halls_just_enough_research/) presented on user research as a way of breaking down the assumptions we make about audiences and how they access the web sites we build. She made a powerful point about design: *unmet needs are the right problem to solve.* By using applied research techniques to observe people using sites in real-world situations, we can expose patterns, explore reactions, and shed light on the unknown. 
 
-###4. Empathy is a necessary design skill.  
+##4. Empathy is a necessary design skill.  
 
 *Empathy closes the distance between you and your clients*  
 >  “Your job isn’t just making shit up. It’s 90% convincing people that the shit you thought up is the right thing to do.”   
@@ -66,7 +66,8 @@ Explanations are how to close the distance between your ideas and your client. J
 
 Aaron Walter [(@aarron)](https://twitter.com/aarron), in his presentation [The Real Me](http://responsive.ly/2013/04/session-notes-for_aaron_walters_the_real_me/), talked about the benefits of inserting personality into design. Personality is a way of establishing empathy between a visitor and a brand. By adding empathy, craft, unique content, and voice into our designs, we can demonstrate values and create the kinds of experiences that set us apart from our competitors.  
 
-###5. Be a unicorn.  
+##5. Be a unicorn.  
+
 > “Unicorns exist. You can become one!”  
 > --Jared Spool  
 

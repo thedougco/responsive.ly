@@ -113,7 +113,8 @@ Karen points out several examples, including United, as mobile experiences where
 
 *This isn't good enough.* All of our users deserve a better experience. There are three things you can be doing right now to improve the mobile experience.
 
-##1. You need a content strategy for mobile  
+## 1. You need a content strategy for mobile
+
 Karen shamelessly points us to [her book](http://www.abookapart.com/products/content-strategy-for-mobile).
 
 Three things you can do now to improve the mobile experience for all users.
@@ -125,7 +126,8 @@ Identify the authors. Identify the problems with content generation and curation
 Many companies are treating these two things as separate. The workflow is cumbersome. Karen points to a Comcast example where they have forked mobile and desktop web. *No forking way.* It’s not a strategy if you can’t maintain it. It’s not a long-term solution, especially for teams who are stretched to capacity.
 
 
-##2. Write better  
+## 2. Write better
+
 One of my biggest pet peeves in mobile is the idea of “how to write for mobile” or “how to write for a mobile audience.” 
 
 There’ s no such thing. There is only good writing. Write shorter sentences, write clearly, use headings and bullet points and avoid jargon. 
@@ -156,7 +158,8 @@ Karen points out Blockbuster’s flawed mobile experience, how they simply trunc
 
 She compares Verizon’s mobile content to Comcast’s mobile content. The Comcast version has summaries connected to navigation. She points out this is a vast improvement, particularly for mobile users. This is an example of developing a flexible system.
 
-##3. Don’t create content for a specific context.  
+## 3. Don’t create content for a specific context
+
 Instead, design a system of content that is meant to deploy content to the broadest number of display systems.
 
 We don’t get to decide where people access our content. They–users–do.

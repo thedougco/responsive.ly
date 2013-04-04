@@ -11,7 +11,8 @@ It's 2001. There was something called Ginger on the horizon, or simply “IT.”
 
 IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a complete novelty.<!-- more -->
 
-**Who did the Segway exclude?**    
+## Who did the Segway exclude?
+
 - Anyone with children  
 - Anyone who needed to transport another human  
 - Anyone without 5 or 6 grand to spend  
@@ -19,10 +20,12 @@ IT was the [Segway](http://www.segway.com/). IT was a complete failure. It's a c
 - Anyone who has to carry more than 20 lbs  
 - Anyone who has to go more than 5 miles   
 
-**Who was the Segway changing the world for?**   
+### Who was the Segway changing the world for?
+
 Affluent singles who live in southern California.
 
-**Why Research?**  
+### Why Research?
+
 Frequently, there is a gap between your assumptions and the actual world. This gap gets filled with hype, wishful thinking, and most importantly risk.
 
 *User research can increase knowledge and decrease risk.*  
@@ -31,7 +34,8 @@ About the Segway, they said, “Cities will be built around this device.”
 
 I love innovation. We don't want facts to inhibit creativity. We want blue-sky thinking. What happens when blue-sky thinking meets reality? Reality wins.
 
-**Objections to research:**  
+### Objections to research:
+
 We don’t have the expertise.
 
 We’re already doing A/B testing. 
@@ -57,15 +61,18 @@ What problem are you solving? What is research? It is just asking questions.
 
 Most research starts with a Google query and ends with a Wikipedia page. Assessing credibility is the hard part of this research
 
-**Pure research**  
+### Pure research
+
 This is scientific research, and it begins with a question or hypothesis, like why humans sleep. Pure research are the results of questioning and observation, and the results are published in peer research journal. This is science.
 
-**Applied research**  
+### Applied research
+
 This is the kind of research Erika is most interested in. Real-word, lighter-weight application of applied techniques. Strict research protocols may be relaxed in order to get to a more casual form of observation in real use cases.
 
 If your research helped you meet your stated goal, it succeeded. 
 
-**Design research**  
+### Design research
+
 This started about thirty years ago. A number of techniques to gather opinions about creative work.
 
 Design research is meant to:  
@@ -73,10 +80,12 @@ Design research is meant to:
 - Explore reactions  
 - Shed light on the unknown  
 
-*Design research is not enough.*  
+#### Design research is not enough
+
 The real world context in which your design is used is where we should be conducting research. You have to think about the real world. You have to think about your user in the wild. 
 
-**What research is not**  
+## What research is not
+
 Research is not asking people what they like. Like is not a part of the critical thinker's vocabulary. Like is subjective, self-reported, and empty. "I like horses! But I'm not going to buy any horses online." 
 
 We should not ask people what they hate. Hate is subjective.
@@ -85,7 +94,8 @@ Research is not a political tool.
 
 (Applied) research is not SCIENCE. Avoid conversation about statistical significance. Focus on getting useful insight.
 
-**What research is** 
+## What research is
+
 Research is one very simple process:
 Form questions, consider / observe / interview, analyze data. 
 
@@ -93,13 +103,15 @@ Research generates insights that informs ongoing work and leads to success.
 
 Forming good questions is the most imporant activity of all.  
 
-**Good questions to inform research are:**  
+## Good questions to inform research are:
+
 - simple  
 - specific  
 - answerable  
 - practical  
 
-Critical thinking isn’t always popular. It challenges assumptions. Critical thinking is:  
+Critical thinking isn’t always popular. It challenges assumptions. Critical thinking is:
+
 1. Disciplined  
 2. Self-correcting  
 3. Clear  
@@ -109,7 +121,8 @@ Interviews are the core of user research. Talking to people who represent the co
 
 Questions help us think critically. Observation is an applied research technique.  
 
-**For good interviews**  
+## For good interviews
+
 1. Know your question  
 2. Warm up  
 3. Shut up: interviewing is not talking, it's listening  
@@ -127,23 +140,26 @@ Out of your comfort zone and into theirs. Through research we acquire raw materi
 
 You will find that people work together in ways that are not represented in an org chart. It's critical to get people into one-on-one conversations.  
 
-**Four d’s of design ethnography research**  
+### Four d’s of design ethnography research
+
 1. Deep dive: getting to know a handful of individuals  
 2. Daily life: observing people in real-world environments  
 3. Data analysis: critical thinking around recorded data  
 4. Drama: pulling out stories and human interest from observations   
 
-##Recruiting  
+## Recruiting  
 
 *Tool:*  
 [Ethnio](http://ethn.io/)  
 
-**Incentives**  
+### Incentives
+
 It’s critical to use incentives to reduce bias. If we only recruit friends we stack the research outcomes. Incentives bring in a bigger pool of people.
 
 Personas, scenarios, focus groups are tools of ethnographic research.
 
-**Focus groups are not research.**  
+### Focus groups are not research
+
 > “Even when the subjects are well selected, focus groups are merely the source of ideas that need to be researched.“  
 > --Robert K. Merton, Creator Focus Groups!  
 
