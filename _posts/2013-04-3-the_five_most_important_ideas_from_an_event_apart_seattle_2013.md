@@ -72,7 +72,8 @@ Aaron Walter [(@aarron)](https://twitter.com/aarron), in his presentation [The R
 
 Work like a horse? *More like work like a unicorn.* The unicorn is Jared Spool’s metaphor for the UX generalist: a designer with skills in storytelling, critiquing, sketching, and presenting.  UX generalists are more useful to teams than specialists.
 
-“Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.” --Jeffrey Zeldman
+> “Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.” 
+> --Jeffrey Zeldman
 
 Finally, Jeffrey Zeldman [(@zeldman)](https://twitter.com/zeldman) closed [his session](http://responsive.ly/2013/04/session-notes-for-zeldmans-ten-commandments-of-web-design/) with two commandments about uniqueness:
 
