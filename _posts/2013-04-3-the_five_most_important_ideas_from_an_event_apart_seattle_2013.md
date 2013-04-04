@@ -9,7 +9,7 @@ author: doug
 
 <!-- more -->
 
-###1. It’s a read/write <del>mobile</del> multi-device web.  
+###1. It’s a write/read <del>mobile</del> multi-device web.  
 
 > “What do Facebook, Yahoo, AOL, Google, and YouTube… the sites on the web where people spend the most time… have in common? They all offer write / read experiences. They don't work unless people add or write content to them.”  
 >--@Luke W. 
