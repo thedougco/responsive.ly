@@ -71,7 +71,7 @@ Aaron Walter [(@aarron)](https://twitter.com/aarron), in his presentation [The R
 > “Unicorns exist. You can become one!”  
 > --Jared Spool  
 
-Work like a horse? *More like work like unicorn.* The unicorn is Jared Spool’s metaphor for the UX generalist: a designer with skills in storytelling, critiquing, sketching, and presenting.  UX generalists are more useful to teams than specialists.
+Work like a horse? *More like work like a unicorn.* The unicorn is Jared Spool’s metaphor for the UX generalist: a designer with skills in storytelling, critiquing, sketching, and presenting.  UX generalists are more useful to teams than specialists.
 
 “Don't change what you are in the hopes it will make you more popular. The third time I was arrested, I figured this out.” --Jeffrey Zeldman
 
