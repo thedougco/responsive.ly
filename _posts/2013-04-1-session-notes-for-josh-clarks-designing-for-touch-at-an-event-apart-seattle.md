@@ -103,7 +103,7 @@ Unfortunately this measurement doesn't accommodate for dynamic viewports… brow
 
 ## Rules of thumb for touch input
 
-- 44 pixels == 11 millimeters == 2.75 ems in most browsers  
+- 44 pixels == ~11 millimeters == 2.75 ems in most browsers  
 - 44 pixels x 29 pixels is another rule of thumb  
 - iOs doubles the 44 pixel measurement for icons, default icons are 88 pixels
 
