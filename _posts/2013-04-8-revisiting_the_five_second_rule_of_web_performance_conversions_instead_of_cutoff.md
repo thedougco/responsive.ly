@@ -5,9 +5,8 @@ date: 2013-04-08
 categories: [Responsive, Tools]
 author: doug
 ---
-<!-- more -->
 ###Revisiting the oft-cited five-second rule
-It may be true that [your site should load in five seconds or less or 74% of visitors will leave](http://www.gomez.com/wp-content/downloads/19986_WhatMobileUsersWant_Wp.pdf). But one thing to consider about this frequently cited Gomez/Equation Research survey is the research is based on a survey of what users *said they expected, not on actual analytics.* I am not bringing this up to assume the statistic is faulty, but to point out that research based on surveys can be less accurate than applied research based on real use of technology. 
+It may be true that [your site should load in five seconds or less or 74% of visitors will leave](http://www.gomez.com/wp-content/downloads/19986_WhatMobileUsersWant_Wp.pdf). But one thing to consider about this frequently cited Gomez/Equation Research survey is the research is based on a survey of what users *said they expected, not on actual analytics.* I am not bringing this up to assume the statistic is faulty, but to point out that research based on surveys can be less accurate than applied research based on real use of technology.<!-- more -->
 
 The margin of error on what users *say* they are willing to tolerate could easily be one or two seconds in either direction of the five-second rule. If participants in the Gomez/Equation Research underestimated their threshold of irritation by even one second, the cutoff starts to becomes even more punishing for pages with long load times.
 
