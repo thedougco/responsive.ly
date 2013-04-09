@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conversions Instead of Cutoff: Revisiting the Five-second Rule of Web Performance
+title: Conversions Instead of Cutoff... Revisiting the Five-second Rule of Web Performance
 date: 2013-04-08
 categories: [Responsive, Tools]
 author: doug
