@@ -20,7 +20,7 @@ In my process of questioning the five-second rule, I decided to do some investig
 ###Better performance = more $
 We can’t look at bounce vs. weight, but we can look at performance vs. conversions. [Amazon found that every 100 ms of load time reduced conversions by 1%](http://www.websiteoptimization.com/speed/tweak/psychology-web-performance/). In other words, they found a direct correlation between lighter page weight and more conversions. **Faster-loading content translates into more conversions on an incremental scale**. 
 
-Measuring conversions is a way of thinking about web performance additively rather than a black-and-white cutoff. In concert terms, our goal should never be to keep people satisfied enough that they don’t walk out of the show.  We want to perform so well that everyone buys our albums and t-shirts after the show.
+Measuring conversions is a way of thinking about web performance additively rather than a black-and-white cutoff. In concert terms, our goal should never be to keep people satisfied enough that they don’t walk out of the show. We want to perform so well that everyone buys our albums and t-shirts after the show.
 
 ###Web performance is a practice
 I agree with Brad Frost [that performance is a *design feature*](http://bradfrostweb.com/blog/post/performance-as-design/). Performance is also a *design practice*. We should be thinking of web performance in terms of a positive, incremental scale of success, where better performance is more conversions.
