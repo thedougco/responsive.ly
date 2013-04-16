@@ -7,7 +7,7 @@ author: doug
 ---
 
 ###Live, Online, and Happening Tomorrow
-It’s a little late in the game to be posting about this event, but better later than never, right? [Environments for Humans](http://environmentsforhumans.com/) is hosting their [second annual online, live responsive web design summit](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyJO4Luf5o) starting tomorrow, April 16th through Thursday, April 18th 2013.
+It’s a little late in the game to be posting about this event, but better later than never, right? [Environments for Humans](http://environmentsforhumans.com/) is hosting their [second annual online, live responsive web design summit](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyJO4Luf5o) starting tomorrow, April 16th through Thursday, April 18th 2013.<!-- more -->
 
 The speaker lineup seems to focus on [practitioners rather than theorists](http://edgeperspectives.typepad.com/edge_perspectives/2013/04/getting-stronger-through-stress-making-black-swans-work-for-you.html). Regardless of the methodology behind the speaker selection, it’s a kick-ass lineup. Among the names you might recognize:    
 - Dave Olsen [(@dmolsen)](https://twitter.com/dmolsen), Author, Developer and Project Manager  
