@@ -16,8 +16,8 @@ The speaker lineup seems focused on [practitioners rather than theorists](http:/
 - Ben Callahan [(@bencallahan)](https://twitter.com/bencallahan), President of Sparkbox and Host of the Build Responsively Workshops  
 - Erik Runyon [(@erunyon)](https://twitter.com/erunyon), Manager of Interactive Development at Notre Dame, Blogger and Co-founder of this site  
 
-###Buy Now, It’s Tomorrow
 You’ll likely recognize other #RWD superstars in the lineup including Trent Walton and Dave Rupert from [Paravel](http://paravelinc.com/).
 
+###Buy Now, It’s Tomorrow
 My own professional development time is at capacity for the year due to the birth of my [twin boys](https://vine.co/v/bpmtiJBIEUe?fb_action_ids=10200969264183627&fb_action_types=vine-app%3Apost&fb_source=aggregation&fb_aggregation_id=288381481237582), but if you have the time and the budget I suggest you [head on over to the RWD Summit site and buy yourself a ticket](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyPN4Luf5p). You can purchase by the day or choose to attend  the entire three-day extravaganza. 
 
