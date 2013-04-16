@@ -21,5 +21,5 @@ You’ll likely recognize other #RWD superstars in the lineup including Trent Wa
 ###Buy Now, It’s Tomorrow
 If you have the time and the budget I suggest you [head on over to the RWD Summit site and buy yourself a ticket](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyPN4Luf5p). You can purchase by the day or choose to attend  the entire three-day extravaganza. 
 
-Unfortunately, my own professional development time is at capacity for the year. I recently spent three days at [An Event Apart Seattle 2013](http://aneventapart.com/event/seattle-2013), and I'm already slated to speak at [The Web Conference at Penn State](http://webconference.psu.edu/) and attend several other .edu conferences, so I have to skip this one. 
+Unfortunately, my own professional development time is at capacity for the year. I recently spent three days at [An Event Apart Seattle 2013](http://aneventapart.com/event/seattle-2013), I'm already slated to speak at [The Web Conference at Penn State](http://webconference.psu.edu/) and attend several other .edu conferences, so I have to skip this one. 
 
