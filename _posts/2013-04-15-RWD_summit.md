@@ -19,5 +19,7 @@ The speaker lineup seems focused on [practitioners rather than theorists](http:/
 You’ll likely recognize other #RWD superstars in the lineup including Trent Walton and Dave Rupert from [Paravel](http://paravelinc.com/).
 
 ###Buy Now, It’s Tomorrow
-My own professional development time is at capacity for the year due to the birth of my [twin boys](https://vine.co/v/bpmtiJBIEUe?fb_action_ids=10200969264183627&fb_action_types=vine-app%3Apost&fb_source=aggregation&fb_aggregation_id=288381481237582), but if you have the time and the budget I suggest you [head on over to the RWD Summit site and buy yourself a ticket](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyPN4Luf5p). You can purchase by the day or choose to attend  the entire three-day extravaganza. 
+If you have the time and the budget I suggest you [head on over to the RWD Summit site and buy yourself a ticket](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyPN4Luf5p). You can purchase by the day or choose to attend  the entire three-day extravaganza. 
+
+Unfortunately, my own professional development time is at capacity for the year. I recently spent three days at [An Event Apart Seattle 2013](http://aneventapart.com/event/seattle-2013), and I'm already slated to speak at [The Web Conference at Penn State](http://webconference.psu.edu/) and attend several other .edu conferences, so I have to skip this one. 
 
