@@ -143,11 +143,12 @@ Example:
 Their mobile site succeeds because they have great content. Their content made the leap to mobile well for this reason. *Good content transcends platform.*
 
 **Chunking your blobs**  
-Which content should we include (or exclude)?
-Should long pages be broken into shorter ones?
-Will it work to reuse headings as links?
-Will it work to reuse body copy for summaries?
-What fallbacks can we provide if our desktop content just doesn’t work?
+
+- Which content should we include (or exclude)?
+- Should long pages be broken into shorter ones?
+- Will it work to reuse headings as links?
+- Will it work to reuse body copy for summaries?
+- What fallbacks can we provide if our desktop content just doesn’t work?
 
 *Responsive design won’t fix your content problems.*  
 Karen points to an example of designing a system of image crops for a variety of screen sizes. Content can work in the same way.  Instead, in many cases, we simply use ellipses in mobile.
