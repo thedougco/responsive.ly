@@ -74,4 +74,4 @@ Tablet-friendly responsive designs increasingly anchor related content (headline
 **Not necessarily new to tablets, just new to tablet-friendly web sites**  
 If some the web design conventions above look familiar, they should: you’ve probably seen some of these ideas before when using native tablet applications*. Tablet application designers have been dealing with touch input sensitivity (or lack thereof), positioning for easy access of fingers, and dual orientation for years now. Because of tablet growth (sales, traffic, and use) designers and developers must be ready to learn lessons from previous patterns and be creative enough to devise new conventions for a more tablet-friendly web.
 
-* [It's all been done](http://www.youtube.com/watch?v=Zs3xXlXSOKk) before, hasn't it?  
+*[It’s all been done](http://www.youtube.com/watch?v=Zs3xXlXSOKk) before, hasn’t it?  
