@@ -56,7 +56,7 @@ Touch input needs a different ratio than mouse/trackpad input due due to the siz
 [Svbtle](https://svbtle.com/magazine)  
 [Svpply](https://svpply.com/)  
 
-**Use left and right swiping and/or sequential navigation (sparingly and where it makes sense)**  
+**4. Use left and right swiping and/or sequential navigation (sparingly and where it makes sense)**  
 Tablet applications such as [Kindle](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000493771) and [Flipboard](http://flipboard.com/) allow a reader to quickly flip through content sequentially by swiping left and right. In site design, side-to-side arrows aren’t a replacement for traditional navigation, it’s just an alternate way to allow a user to quickly flip through content under a specific category.
 
 *Examples:*  
@@ -64,7 +64,7 @@ Tablet applications such as [Kindle](http://www.amazon.com/gp/feature.html?ie=UT
 [Yale School of Management](http://explore.som.yale.edu/#/yale-experience/yale-university)  
 [One Design Company](http://onedesigncompany.com)  
 
-**Anchor related content anchored to the sides of the browser**  
+**5. Anchor related content anchored to the sides of the browser**  
 Tablet-friendly responsive designs increasingly anchor related content (headlines, blurbs, articles) to the sides. This is not the same as running content down the side of the main copy block (a convention that has been popular since the inception of the visual web). The content still falls to the side of the main element, but is anchored to the side of the browser window. The difference is subtle but important. By positioning the content headlines in direct proximity to the sides, additional articles are easier to access with fingers and thumbs.
 
 *Examples:*  
