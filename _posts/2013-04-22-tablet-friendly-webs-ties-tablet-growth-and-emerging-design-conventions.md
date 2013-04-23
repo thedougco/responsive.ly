@@ -7,7 +7,7 @@ author: doug
 ---
 
 ###The rise of the tablet  
-2012 was a very good year for tablets. Tablet sales [increased almost over 78% from 2011](http://techcrunch.com/2013/03/27/idc-tablet-growth-2012-2017/) and tablets are expected to outpace desktop sales in 2013. Tablet growth [represents the fastest sales ramp-up for any device computing device in history.](http://www.businessinsider.com/bii-report-how-tablet-sales-are-exploding-this-year-2012-12). <!-- more --> 
+2012 was a very good year for tablets. Tablet sales [increased almost over 78% from 2011](http://techcrunch.com/2013/03/27/idc-tablet-growth-2012-2017/) and tablet sales are expected to outpace desktop sales in 2013. Tablet growth [represents the fastest sales ramp-up for any device computing device in history](http://www.businessinsider.com/bii-report-how-tablet-sales-are-exploding-this-year-2012-12). <!-- more --> 
 
 **Traffic and use growth**  
 - Tablet traffic surpassed smartphone traffic in December 2012[(source: Adobe)](http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic/)  
