@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tablet-Friendly Web Sites: How and Why Tablet Growth is Changing Design Conventions 
+title: The Tablet-Friendly Web—How and Why Tablet Growth is Changing Design Conventions 
 date: 2013-04-22
 categories: [Responsive, Tablets, Navigation]
 author: doug
