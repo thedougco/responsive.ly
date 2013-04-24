@@ -30,7 +30,6 @@ There is a difference in sensitivity level of input between a human hand and oth
 What does tablet-friendly design look in practice? Below are five tablet-friendly conventions that are changing web site design, with live examples of each. 
 
 **1. Put navigation on the sides**  
-
 Notice something consistent with the location of primary navigation elements in the new Google+, the new Facebook News Feed, and new YouTube design modifications? *Commonly used navigation is now placed on the sides*. The sides are easiest for human digits to reach from a tablet. Luke W.’s post on [optimizing navigation for touch across devices](http://www.lukew.com/ff/entry.asp?1649) explains this convention out in more detail.
 
 <img src="../../../images/google_plus.jpg" width="100%" alt="An image of the side navigation used by Google+." />
@@ -42,7 +41,6 @@ Notice something consistent with the location of primary navigation elements in 
 [New Facebook News Feed](https://www.facebook.com/about/newsfeed)  
 
 **2. Use flexible heights to accommodate portrait and landscape  orientation of a tablet display**  
-
 Tablets use rectangular screens that are often turned from portrait to landscape orientation by users. Changes in height can be used to better prepare content for available screen real estate as a user flips the position of the tablet from landscape to portrait. 
 
 Changes of height in elements based on available space are accomplished using vertical media queries. At the time I’m writing this, [vertical media queries are fairly rare](http://responsive.ly/2013/03/use-cases-for-vertical-media-queries/). This is a convention that will change; height variations make sense for the dual portrait/landscape nature of a tablet display.
@@ -55,7 +53,6 @@ Changes of height in elements based on available space are accomplished using ve
 [Johan Ronsse Photography](http://johanronsse.be/)  
 
 **3. Make button sizes / touch targets larger**  
-
 Touch input needs a different ratio than mouse/trackpad input due due to the size of a human digit vs. the size of a tiny cursor. Different manufacturers have different guidelines for touch ranging from a recommended touch target area of somewhere between 28 pixels (Nokia’s standard) and 57 pixels (MIT’s largest standard). A popular rule is 44 pixels (Apple’s standard). When designing buttons for a tablet-friendly site, consider [Microsoft’s research conclusion that errors decrease as button sizes increase](http://research.microsoft.com/pubs/75812/parhi-mobileHCI06.pdf).
 
 <img src="../../../images/big_buttons.jpg" width="100%" alt="An image larger button sizes in use by Good." />
@@ -66,7 +63,6 @@ Touch input needs a different ratio than mouse/trackpad input due due to the siz
 [Svpply](https://svpply.com/)  
 
 **4. Use left and right swiping and/or sequential navigation**
-
 <img src="../../../images/iphone.jpg" width="100%" alt="An image of side-to-side navigation in use by Yale School of Management." />
   
 Tablet applications such as [Kindle](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000493771) and [Flipboard](http://flipboard.com/) allow a reader to quickly flip through content sequentially by swiping left and right. In site design, side-to-side arrows aren’t a replacement for traditional navigation, it’s just an alternate way to allow a user to quickly flip through content under a specific category.
@@ -76,7 +72,6 @@ Tablet applications such as [Kindle](http://www.amazon.com/gp/feature.html?ie=UT
 [One Design Company](http://onedesigncompany.com)  
 
 **5. Anchor related content anchored to the sides of the browser**
-
 Tablet-friendly responsive designs increasingly anchor related content (headlines, blurbs, articles) to the sides. This is not the same as running content down the side of the main copy block (a convention that has been popular since the inception of the visual web). The content still falls to the side of the main element, but is anchored to the side of the browser window. The difference is subtle but important. By positioning the content headlines in direct proximity to the sides, additional articles are easier to access with fingers and thumbs.
 
 <img src="../../../images/quartz.jpg" width="100%" alt="An image of side-anchored content in use by Quartz." />
