@@ -16,7 +16,7 @@ The speaker lineup seems focused on [practitioners rather than theorists](http:/
 - Dan Mall [(@danmall)](https://twitter.com/danielmall), Founder and Designer at SuperFriendly  
 - Sara Wachter-Boettcher [(@sara_ann_marie)](https://twitter.com/sara_ann_marie), Author, Content Strategist and Editor at A List Apart  
 - Ben Callahan [(@bencallahan)](https://twitter.com/bencallahan), President of Sparkbox and Host of the Build Responsively Workshops  
-- Erik Runyon [(@erunyon)](https://twitter.com/erunyon), Manager of Interactive Development at Notre Dame, Blogger and Co-founder of this site  
+- Erik Runyon [(@erunyon)](https://twitter.com/erunyon), Director of Web Communications at Notre Dame, Blogger and Co-founder of this site  
 
 You’ll likely recognize other #RWD superstars in the lineup including Trent Walton and Dave Rupert from [Paravel](http://paravelinc.com/).
 
