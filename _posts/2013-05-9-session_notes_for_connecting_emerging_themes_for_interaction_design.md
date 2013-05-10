@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Session Notes for Connecting – Emerging Themes for Interactions Albert Shum and Corinna Black
-date: 2013-04-02
+title: Session Notes for Connecting—Emerging Themes for Interactions  
+date: 2013-05-09
 categories: [Interactive, Navigation]
 author: doug
 ---
 
-<img src="../../../images/skeuomorphia.png" width="100%" alt="An image of skeuomorphic bicycles designed to resemble horses." />
+<img src="../../../images/skeuomorphia.png" width="100%" alt="An image of skeuomorphic bicycles designed to visually resemble horses." />
 
-*Skeuomorphia: it's just not cool anymore.*
+*Skeuomorphism: it's just not cool anymore.*
 
 <!-- more -->
 
-*These notes were taken at [MakerHaus](http://www.makerhaus.com/) on May 9, 2013 – an event hosted by [IxDA Seattle](http://www.ixdaseattle.org/) + [AIGA Seattle](http://www.aigaseattle.org/)*
+*These notes were taken at [MakerHaus](http://www.makerhaus.com/) on May 9, 2013 for Connecting—an event hosted by [IxDA Seattle](http://www.ixdaseattle.org/) + [AIGA Seattle](http://www.aigaseattle.org/)*
 
-Some of the ideas from the talk are covered in [Connecting: the Film](http://connectingthefilm.com/). A team from Microsoft talked to friends (including designers from Twitter, Method, Frog, Microsoft, the School of Visual Arts) about emerging trends in interaction design; excerpts from those interviews were used for the movie.
+Some of the ideas from this talk are covered in [Connecting: the Film](http://connectingthefilm.com/). A team from Microsoft talked to friends (including designers from Twitter, Method, Frog, Microsoft, and the School of Visual Arts) about emerging trends in interaction design; excerpts from those interviews were used to create the movie.
 
 ## Emerging themes in interaction design, as identified in the Connecting: the Film  
 1. The internet of things  
@@ -35,7 +35,7 @@ Some of the ideas from the talk are covered in [Connecting: the Film](http://con
 [Don't Blame Flat Design for Your Ui Problems](https://medium.com/design-ux/3a69c61a8dd2)  
 [The Flattening of Design NY Times Bits](http://bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/)  
  
-## Blurring of the line in devices  
+## What is a phone, anyway?  
 What is a phone? [Fitbit](http://www.fitbit.com/product) products are wearable devices for quantifying data about the self, and they begins to blur the definition of where a phone ends and a device begins: they provide functionality we previously relied on phones for.
 
 ## What’s the big deal with flat design?  
@@ -52,6 +52,4 @@ What is a phone? [Fitbit](http://www.fitbit.com/product) products are wearable d
 ## What did the Microsoft Windows team learn, working on the phone?
 • In 2009, the Windows Phone software was strongly skeuomorphic. So were other phone operating systems. Filled with gradients, etc.
 • Their plan was to do something completely different. They were going for a timeless look that referenced Swiss design, [International Typographic Style](http://en.wikipedia.org/wiki/International_Typographic_Style).  
-• Their philosophy is “get rid of the chrome.”  
-
-
+• Their philosophy is “get rid of the chrome.”
