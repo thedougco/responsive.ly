@@ -69,7 +69,7 @@ Tablet applications such as [Kindle](http://www.amazon.com/gp/feature.html?ie=UT
 <img src="../../../images/iphone.jpg" width="100%" alt="An image of side-to-side navigation in use by Yale School of Management." />
 
 *Examples:*  
-[The New NY Times](http://www.nytimes.com/marketing/prototype/)  [Clearleft](http://clearleft.com/does/information-architecture)  [Yale School of Management](http://explore.som.yale.edu/#/yale-experience/yale-university)  
+[The New NY Times](http://www.nytimes.com/marketing/prototype/)   [Clearleft](http://clearleft.com/does/information-architecture)  [Yale School of Management](http://explore.som.yale.edu/#/yale-experience/yale-university)  
 [One Design Company](http://onedesigncompany.com)  
 
 **5. Related content anchored to the sides of the browser**
