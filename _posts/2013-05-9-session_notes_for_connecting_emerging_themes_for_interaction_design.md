@@ -14,6 +14,7 @@ author: doug
 
 *These notes were taken at [MakerHaus](http://www.makerhaus.com/) on May 9, 2013 for Connecting—an event hosted by [IxDA Seattle](http://www.ixdaseattle.org/) + [AIGA Seattle](http://www.aigaseattle.org/).*
 
+## Watch the film
 Some of the ideas from this talk are covered in [Connecting: the Film](http://connectingthefilm.com/). A team from Microsoft talked to friends (including designers from Twitter, Method, Frog, Microsoft, and the School of Visual Arts) about emerging trends in interaction design; excerpts from those interviews were used to create the movie.
 
 ## Emerging themes in interaction design, as identified in the [Connecting: the Film](http://connectingthefilm.com/)    
@@ -29,10 +30,10 @@ Some of the ideas from this talk are covered in [Connecting: the Film](http://co
 - “Flat design” is a label created by the media, but it is also an emerging trend.  
 - “Flat” has a negative connotation (boring).  
 - Simple design can be a way of narrowing focus.  
-- One thing to beware in “flat” design is too few affordances; the Windows Phone team has worked hard to include motion cues and natural motion as an affordance in simpler interfaces.
+- One thing to beware in “flat” design is too few affordances; the Windows Phone team has worked hard to include motion cues and transitional interfaces.  
 
 *References:*  
-[Don't Blame Flat Design for Your Ui Problems](https://medium.com/design-ux/3a69c61a8dd2)  
+[Don't Blame Flat Design for Your UI Problems](https://medium.com/design-ux/3a69c61a8dd2)  
 [The Flattening of Design NY Times Bits](http://bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/)  
  
 ## What is a phone, anyway?  
