@@ -4,11 +4,12 @@ title: The Second Annual RWD Summit
 date: 2013-04-15
 categories: [Responsive, Conferences]
 author: doug
+description: Environments for Humans brings together some of the Web's most notable experts in Responsive Web Design and Performance for an all-new, three-day online conference, the Responsive Web Design Summit 2013!
 ---
 
 ## Live, Online and Happening Tomorrow
 
-It’s a little late in the game to be posting about this event, but better later than never, right? [Environments for Humans](http://environmentsforhumans.com/) are hosting their [second annual online, live responsive web design conference](http://environmentsforhumans.com/2013/responsive-web-design-summit/#.UWyJO4Luf5o) starting tomorrow, April 16th through Thursday, April 18th 2013.<!-- more -->
+It’s a little late in the game to be posting about this event, but better later than never, right? [Environments for Humans](http://environmentsforhumans.com/) are hosting their [second annual online, live responsive web design conference](http://environmentsforhumans.com/2013/responsive-web-design-summit/) starting tomorrow, April 16th through Thursday, April 18th 2013.<!-- more -->
 
 The speaker lineup seems focused on [practitioners rather than theorists](http://edgeperspectives.typepad.com/edge_perspectives/2013/04/getting-stronger-through-stress-making-black-swans-work-for-you.html). Whether or not that was the methodology behind the speaker selection, it’s a kick-ass group. Among the names you might recognize:
 
