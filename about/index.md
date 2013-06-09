@@ -16,7 +16,7 @@ This site is about building the web for change both responsively and responsibly
 
 ## Doug Gapinski
 
-Doug Gapinski [(@thedougco)](http://www.twitter.com/thedougco) is a Strategist at mStoner, a company providing strategy and creative work to colleges, universities and graduate schools. He has also worked on projects for the Obama Campaign, the Chicago Museum of Contemporary Art and Sears. Doug speaks several times a year at education conferences and is currently interested in mobile and pervasive computing.
+Doug Gapinski [(@DougGapinski)](http://www.twitter.com/DougGapinski) is a Strategist at mStoner, a company providing strategy and creative work to colleges, universities and graduate schools. He has also worked on projects for the Obama Campaign, the Chicago Museum of Contemporary Art and Sears. Doug speaks several times a year at education conferences and is currently interested in mobile and pervasive computing.
 
 ## Erik Runyon
 
